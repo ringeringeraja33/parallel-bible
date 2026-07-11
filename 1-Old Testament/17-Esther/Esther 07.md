@@ -1,0 +1,71 @@
+# Esther 7
+
+## 1
+
+| Language | Content |
+| --- | --- |
+| English | So the king and Haman came to banquet with Esther the queen. |
+| 中文 | 王带着哈曼来赴王后以斯帖的筵席。 |
+
+## 2
+
+| Language | Content |
+| --- | --- |
+| English | And the king said again unto Esther on the second day at the banquet of wine, What is thy petition, queen Esther? and it shall be granted thee: and what is thy request? and it shall be performed, even to the half of the kingdom. |
+| 中文 | 这第二次在酒席筵前，王又问以斯帖说，王后以斯帖阿，你要什么，我必赐给你。你求什么，就是国的一半也必为你成就。 |
+
+## 3
+
+| Language | Content |
+| --- | --- |
+| English | Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request: |
+| 中文 | 王后以斯帖回答说，我若在王眼前蒙恩，王若以为美，我所愿的，是愿王将我的性命赐给我。我所求的，是求王将我的本族赐给我。 |
+
+## 4
+
+| Language | Content |
+| --- | --- |
+| English | For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king's damage. |
+| 中文 | 因我和我的本族被卖了，要剪除杀戮灭绝我们。我们若被卖为奴为婢，我也闭口不言。但王的损失，敌人万不能补足。 |
+
+## 5
+
+| Language | Content |
+| --- | --- |
+| English | Then the king Ahasuerus answered and said unto Esther the queen, Who is he, and where is he, that durst presume in his heart to do so? |
+| 中文 | 亚哈随鲁王问王后以斯帖说，擅敢起意如此行的是谁。这人在哪里呢。 |
+
+## 6
+
+| Language | Content |
+| --- | --- |
+| English | And Esther said, The adversary and enemy is this wicked Haman. Then Haman was afraid before the king and the queen. |
+| 中文 | 以斯帖说，仇人敌人就是这恶人哈曼。哈曼在王和王后面前就甚惊惶。 |
+
+## 7
+
+| Language | Content |
+| --- | --- |
+| English | And the king arising from the banquet of wine in his wrath went into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king. |
+| 中文 | 王便大怒，起来离开酒席往御园去了。哈曼见王定意要加罪与他，就起来，求王后以斯帖救命。 |
+
+## 8
+
+| Language | Content |
+| --- | --- |
+| English | Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of the king's mouth, they covered Haman's face. |
+| 中文 | 王从御园回到酒席之处，见哈曼伏在以斯帖所靠的榻上。王说，他竟敢在宫内，在我面前凌辱王后吗。这话一出王口，人就蒙了哈曼的脸。 |
+
+## 9
+
+| Language | Content |
+| --- | --- |
+| English | And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon. |
+| 中文 | 伺候王的一个太监名叫哈波拿，说，哈曼为那救王有功的末底改做了五丈高的木架，现今立在哈曼家里。王说，把哈曼挂在其上。 |
+
+## 10
+
+| Language | Content |
+| --- | --- |
+| English | So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified. |
+| 中文 | 于是人将哈曼挂在他为末底改所预备的木架上。王的忿怒这才止息。 |

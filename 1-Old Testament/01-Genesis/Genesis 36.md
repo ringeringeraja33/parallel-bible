@@ -1,0 +1,302 @@
+# Genesis 36
+
+## 1
+
+| Language | Content |
+| --- | --- |
+| English | Now these are the generations of Esau, who is Edom. |
+| 中文 | 以扫就是以东，他的后代记在下面。 |
+
+## 2
+
+| Language | Content |
+| --- | --- |
+| English | Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite; |
+| 中文 | 以扫娶迦南的女子为妻，就是赫人以伦的女儿亚大和希未人祭便的孙女，亚拿的女儿阿何利巴玛， |
+
+## 3
+
+| Language | Content |
+| --- | --- |
+| English | And Bashemath Ishmael's daughter, sister of Nebajoth. |
+| 中文 | 又娶了以实玛利的女儿，尼拜约的妹子巴实抹。 |
+
+## 4
+
+| Language | Content |
+| --- | --- |
+| English | And Adah bare to Esau Eliphaz; and Bashemath bare Reuel; |
+| 中文 | 亚大给以扫生了以利法。巴实抹生了流珥。 |
+
+## 5
+
+| Language | Content |
+| --- | --- |
+| English | And Aholibamah bare Jeush, and Jaalam, and Korah: these are the sons of Esau, which were born unto him in the land of Canaan. |
+| 中文 | 阿何利巴玛生了耶乌施，雅兰，可拉。这都是以扫的儿子，是在迦南地生的。 |
+
+## 6
+
+| Language | Content |
+| --- | --- |
+| English | And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob. |
+| 中文 | 以扫带着他的妻子，儿女，与家中一切的人口，并他的牛羊，牲畜，和一切货财，就是他在迦南地所得的，往别处去，离了他兄弟雅各。 |
+
+## 7
+
+| Language | Content |
+| --- | --- |
+| English | For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle. |
+| 中文 | 因为二人的财物群畜甚多，寄居的地方容不下他们，所以不能同居。 |
+
+## 8
+
+| Language | Content |
+| --- | --- |
+| English | Thus dwelt Esau in mount Seir: Esau is Edom. |
+| 中文 | 于是以扫住在西珥山里。以扫就是以东。 |
+
+## 9
+
+| Language | Content |
+| --- | --- |
+| English | And these are the generations of Esau the father of the Edomites in mount Seir: |
+| 中文 | 以扫是西珥山里以东人的始祖，他的后代记在下面。 |
+
+## 10
+
+| Language | Content |
+| --- | --- |
+| English | These are the names of Esau's sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau. |
+| 中文 | 以扫众子的名字如下。以扫的妻子亚大生以利法。以扫的妻子巴实抹生流珥。 |
+
+## 11
+
+| Language | Content |
+| --- | --- |
+| English | And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz. |
+| 中文 | 以利法的儿子是毯螅，阿抹，洗玻，迦坦，基纳斯。 |
+
+## 12
+
+| Language | Content |
+| --- | --- |
+| English | And Timna was concubine to Eliphaz Esau's son; and she bare to Eliphaz Amalek: these were the sons of Adah Esau's wife. |
+| 中文 | 亭纳是以扫儿子以利法的妾。她给以利法生了亚玛力。这是以扫的妻子亚大的子孙。 |
+
+## 13
+
+| Language | Content |
+| --- | --- |
+| English | And these are the sons of Reuel; Nahath, and Zerah, Shammah, and Mizzah: these were the sons of Bashemath Esau's wife. |
+| 中文 | 流珥的儿子是拿哈，谢拉，沙玛，米撒。这是以扫妻子巴实抹的子孙。 |
+
+## 14
+
+| Language | Content |
+| --- | --- |
+| English | And these were the sons of Aholibamah, the daughter of Anah the daughter of Zibeon, Esau's wife: and she bare to Esau Jeush, and Jaalam, and Korah. |
+| 中文 | 以扫的妻子阿何利巴玛是祭便的孙女，亚拿的女儿。她给以扫生了耶乌施，雅兰，可拉。 |
+
+## 15
+
+| Language | Content |
+| --- | --- |
+| English | These were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz, |
+| 中文 | 以扫子孙中作族长的记在下面。以扫的长子以利法的子孙中，有毯螅族长，阿抹族长，洗玻族长，基纳斯族长， |
+
+## 16
+
+| Language | Content |
+| --- | --- |
+| English | Duke Korah, duke Gatam, and duke Amalek: these are the dukes that came of Eliphaz in the land of Edom; these were the sons of Adah. |
+| 中文 | 可拉族长，迦坦族长，亚玛力族长。这是在以东地从以利法所出的族长，都是亚大的子孙。 |
+
+## 17
+
+| Language | Content |
+| --- | --- |
+| English | And these are the sons of Reuel Esau's son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these are the dukes that came of Reuel in the land of Edom; these are the sons of Bashemath Esau's wife. |
+| 中文 | 以扫的儿子流珥的子孙中，有拿哈族长，谢拉族长，沙玛族长，米撒族长。这是在以东地从流珥所出的族长，都是以扫妻子巴实抹的子孙。 |
+
+## 18
+
+| Language | Content |
+| --- | --- |
+| English | And these are the sons of Aholibamah Esau's wife; duke Jeush, duke Jaalam, duke Korah: these were the dukes that came of Aholibamah the daughter of Anah, Esau's wife. |
+| 中文 | 以扫的妻子阿何利巴玛的子孙中，有耶乌施族长，雅兰族长，可拉族长。这是从以扫妻子，亚拿的女儿，阿何利巴玛子孙中所出的族长。 |
+
+## 19
+
+| Language | Content |
+| --- | --- |
+| English | These are the sons of Esau, who is Edom, and these are their dukes. |
+| 中文 | 以上的族长都是以扫的子孙。以扫就是以东。 |
+
+## 20
+
+| Language | Content |
+| --- | --- |
+| English | These are the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah, |
+| 中文 | 那地原有的居民何利人西珥的子孙记在下面，就是罗坍，朔巴，祭便，亚拿， |
+
+## 21
+
+| Language | Content |
+| --- | --- |
+| English | And Dishon, and Ezer, and Dishan: these are the dukes of the Horites, the children of Seir in the land of Edom. |
+| 中文 | 底顺，以察，底珊。这是从以东地的何利人西珥子孙中所出的族长。 |
+
+## 22
+
+| Language | Content |
+| --- | --- |
+| English | And the children of Lotan were Hori and Hemam; and Lotan's sister was Timna. |
+| 中文 | 罗坍的儿子是何利，希幔。罗坍的妹子是亭纳。 |
+
+## 23
+
+| Language | Content |
+| --- | --- |
+| English | And the children of Shobal were these; Alvan, and Manahath, and Ebal, Shepho, and Onam. |
+| 中文 | 朔巴的儿子是亚勒文，玛拿辖，以巴录，示玻，阿南。 |
+
+## 24
+
+| Language | Content |
+| --- | --- |
+| English | And these are the children of Zibeon; both Ajah, and Anah: this was that Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father. |
+| 中文 | 祭便的儿子是亚雅，亚拿（当时在旷野放他父亲祭便的驴，遇着温泉的，就是这亚拿）。 |
+
+## 25
+
+| Language | Content |
+| --- | --- |
+| English | And the children of Anah were these; Dishon, and Aholibamah the daughter of Anah. |
+| 中文 | 亚拿的儿子是底顺。亚拿的女儿是阿何利巴玛。 |
+
+## 26
+
+| Language | Content |
+| --- | --- |
+| English | And these are the children of Dishon; Hemdan, and Eshban, and Ithran, and Cheran. |
+| 中文 | 底顺的儿子是欣但，伊是班，益兰，基兰。 |
+
+## 27
+
+| Language | Content |
+| --- | --- |
+| English | The children of Ezer are these; Bilhan, and Zaavan, and Akan. |
+| 中文 | 以察的儿子是辟罕，撒番，亚干。 |
+
+## 28
+
+| Language | Content |
+| --- | --- |
+| English | The children of Dishan are these; Uz, and Aran. |
+| 中文 | 底珊的儿子是乌斯，亚兰。 |
+
+## 29
+
+| Language | Content |
+| --- | --- |
+| English | These are the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah, |
+| 中文 | 从何利人所出的族长记在下面，就是罗坍族长，朔巴族长，祭便族长，亚拿族长， |
+
+## 30
+
+| Language | Content |
+| --- | --- |
+| English | Duke Dishon, duke Ezer, duke Dishan: these are the dukes that came of Hori, among their dukes in the land of Seir. |
+| 中文 | 底顺族长，以察族长，底珊族长。这是从何利人所出的族长，都在西珥地，按着宗族作族长。 |
+
+## 31
+
+| Language | Content |
+| --- | --- |
+| English | And these are the kings that reigned in the land of Edom, before there reigned any king over the children of Israel. |
+| 中文 | 以色列人未有君王治理以先，在以东地作王的记在下面。 |
+
+## 32
+
+| Language | Content |
+| --- | --- |
+| English | And Bela the son of Beor reigned in Edom: and the name of his city was Dinhabah. |
+| 中文 | 比珥的儿子比拉在以东作王，他的京城名叫亭哈巴。 |
+
+## 33
+
+| Language | Content |
+| --- | --- |
+| English | And Bela died, and Jobab the son of Zerah of Bozrah reigned in his stead. |
+| 中文 | 比拉死了，波斯拉人谢拉的儿子约巴接续他作王。 |
+
+## 34
+
+| Language | Content |
+| --- | --- |
+| English | And Jobab died, and Husham of the land of Temani reigned in his stead. |
+| 中文 | 约巴死了，毯螅地的人户珊接续他作王。 |
+
+## 35
+
+| Language | Content |
+| --- | --- |
+| English | And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith. |
+| 中文 | 户珊死了，比达的儿子哈达接续他作王。这哈达就是在摩押地杀败米甸人的，他的京城名叫亚未得。 |
+
+## 36
+
+| Language | Content |
+| --- | --- |
+| English | And Hadad died, and Samlah of Masrekah reigned in his stead. |
+| 中文 | 哈达死了，玛士利加人桑拉接续他作王。 |
+
+## 37
+
+| Language | Content |
+| --- | --- |
+| English | And Samlah died, and Saul of Rehoboth by the river reigned in his stead. |
+| 中文 | 桑拉死了，大河边的利河伯人扫罗接续他作王。 |
+
+## 38
+
+| Language | Content |
+| --- | --- |
+| English | And Saul died, and Baalhanan the son of Achbor reigned in his stead. |
+| 中文 | 扫罗死了，亚革波的儿子巴勒哈南接续他作王。 |
+
+## 39
+
+| Language | Content |
+| --- | --- |
+| English | And Baalhanan the son of Achbor died, and Hadar reigned in his stead: and the name of his city was Pau; and his wife's name was Mehetabel, the daughter of Matred, the daughter of Mezahab. |
+| 中文 | 亚革波的儿子巴勒哈南死了，哈达接续他作王，他的京城名叫巴乌。他的妻子名叫米希她别，是米萨合的孙女，玛特列的女儿。 |
+
+## 40
+
+| Language | Content |
+| --- | --- |
+| English | And these are the names of the dukes that came of Esau, according to their families, after their places, by their names; duke Timnah, duke Alvah, duke Jetheth, |
+| 中文 | 从以扫所出的族长，按着他们的宗族，住处，名字记在下面，就是亭纳族长，亚勒瓦族长，耶帖族长， |
+
+## 41
+
+| Language | Content |
+| --- | --- |
+| English | Duke Aholibamah, duke Elah, duke Pinon, |
+| 中文 | 阿何利巴玛族长，以拉族长，比嫩族长， |
+
+## 42
+
+| Language | Content |
+| --- | --- |
+| English | Duke Kenaz, duke Teman, duke Mibzar, |
+| 中文 | 基纳斯族长，毯螅族长，米比萨族长， |
+
+## 43
+
+| Language | Content |
+| --- | --- |
+| English | Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites. |
+| 中文 | 玛基叠族长，以兰族长。这是以东人在所得为业的地上，按着他们的住处，所有的族长都是以东人的始祖以扫的后代。 |

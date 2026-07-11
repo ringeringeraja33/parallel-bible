@@ -1,0 +1,120 @@
+# Ezekiel 4
+
+## 1
+
+| Language | Content |
+| --- | --- |
+| English | Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, even Jerusalem: |
+| 中文 | 人子阿，你要拿一块砖，摆在你面前，将一座耶路撒冷城画在其上， |
+
+## 2
+
+| Language | Content |
+| --- | --- |
+| English | And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about. |
+| 中文 | 又围困这城，造台筑垒，安营攻击，在四围安设撞锤攻城， |
+
+## 3
+
+| Language | Content |
+| --- | --- |
+| English | Moreover take thou unto thee an iron pan, and set it for a wall of iron between thee and the city: and set thy face against it, and it shall be besieged, and thou shalt lay siege against it. This shall be a sign to the house of Israel. |
+| 中文 | 又要拿个铁鏊，放在你和城的中间，作为铁墙。你要对面攻击这城，使城被困。这样，好作以色列家的预兆。 |
+
+## 4
+
+| Language | Content |
+| --- | --- |
+| English | Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity. |
+| 中文 | 你要向左侧卧，承当以色列家的罪孽。要按你向左侧卧的日数，担当他们的罪孽。 |
+
+## 5
+
+| Language | Content |
+| --- | --- |
+| English | For I have laid upon thee the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt thou bear the iniquity of the house of Israel. |
+| 中文 | 因为我已将他们作孽的年数定为你向左侧卧的日数，就是三百九十日，你要这样担当以色列家的罪孽。 |
+
+## 6
+
+| Language | Content |
+| --- | --- |
+| English | And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year. |
+| 中文 | 再者，你满了这些日子，还要向右侧卧，担当犹大家的罪孽。我给你定规侧卧四十日，一日顶一年。 |
+
+## 7
+
+| Language | Content |
+| --- | --- |
+| English | Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm shall be uncovered, and thou shalt prophesy against it. |
+| 中文 | 你要露出膀臂，面向被困的耶路撒冷，说预言攻击这城。 |
+
+## 8
+
+| Language | Content |
+| --- | --- |
+| English | And, behold, I will lay bands upon thee, and thou shalt not turn thee from one side to another, till thou hast ended the days of thy siege. |
+| 中文 | 我用绳索捆绑你，使你不能辗转，直等你满了困城的日子。 |
+
+## 9
+
+| Language | Content |
+| --- | --- |
+| English | Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, according to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof. |
+| 中文 | 你要取小麦，大麦，豆子，红豆，小米，粗麦，装在一个器皿中，用以为自己作饼。要按你侧卧的三百九十日吃这饼。 |
+
+## 10
+
+| Language | Content |
+| --- | --- |
+| English | And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it. |
+| 中文 | 你所吃的要按分两吃，每日二十舍客勒，按时而吃。 |
+
+## 11
+
+| Language | Content |
+| --- | --- |
+| English | Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink. |
+| 中文 | 你喝水也要按制子，每日喝一欣六分之一，按时而喝。 |
+
+## 12
+
+| Language | Content |
+| --- | --- |
+| English | And thou shalt eat it as barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight. |
+| 中文 | 你吃这饼像吃大麦饼一样，要用人粪在众人眼前烧烤。 |
+
+## 13
+
+| Language | Content |
+| --- | --- |
+| English | And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them. |
+| 中文 | 耶和华说，以色列人在我所赶他们到的各国中，也必这样吃不洁净的食物。 |
+
+## 14
+
+| Language | Content |
+| --- | --- |
+| English | Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth. |
+| 中文 | 我说，哎。主耶和华阿，我素来未曾被玷污，从幼年到如今没有吃过自死的，或被野兽撕裂的，那可憎的肉也未曾入我的口。 |
+
+## 15
+
+| Language | Content |
+| --- | --- |
+| English | Then he said unto me, Lo, I have given thee cow's dung for man's dung, and thou shalt prepare thy bread therewith. |
+| 中文 | 于是他对我说，看哪，我给你牛粪代替人粪，你要将你的饼烤在其上。 |
+
+## 16
+
+| Language | Content |
+| --- | --- |
+| English | Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment: |
+| 中文 | 他又对我说，人子阿，我必在耶路撒冷折断他们的杖，就是断绝他们的粮。他们吃饼要按分两，忧虑而吃。喝水也要按制子，惊惶而喝。 |
+
+## 17
+
+| Language | Content |
+| --- | --- |
+| English | That they may want bread and water, and be astonied one with another, and consume away for their iniquity. |
+| 中文 | 使他们缺粮缺水，彼此惊惶，因自己的罪孽消灭。 |

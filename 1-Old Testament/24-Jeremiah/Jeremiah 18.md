@@ -1,0 +1,162 @@
+# Jeremiah 18
+
+## 1
+
+| Language | Content |
+| --- | --- |
+| English | The word which came to Jeremiah from the LORD, saying, |
+| 中文 | 耶和华的话临到耶利米说， |
+
+## 2
+
+| Language | Content |
+| --- | --- |
+| English | Arise, and go down to the potter's house, and there I will cause thee to hear my words. |
+| 中文 | 你起来，下到窑匠的家里去，我在那里要使你听我的话。 |
+
+## 3
+
+| Language | Content |
+| --- | --- |
+| English | Then I went down to the potter's house, and, behold, he wrought a work on the wheels. |
+| 中文 | 我就下到窑匠的家里去，正遇他转轮作器皿。 |
+
+## 4
+
+| Language | Content |
+| --- | --- |
+| English | And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make it. |
+| 中文 | 窑匠用泥作的器皿，在他手中作坏了，他又用这泥另作别的器皿。窑匠看怎样好，就怎样作。 |
+
+## 5
+
+| Language | Content |
+| --- | --- |
+| English | Then the word of the LORD came to me, saying, |
+| 中文 | 耶和华的话就临到我说， |
+
+## 6
+
+| Language | Content |
+| --- | --- |
+| English | O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel. |
+| 中文 | 耶和华说，以色列家阿，我待你们，岂不能照这窑匠弄泥吗。以色列家阿，泥在窑匠的手中怎样，你们在我的手中也怎样。 |
+
+## 7
+
+| Language | Content |
+| --- | --- |
+| English | At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy it; |
+| 中文 | 我何时论到一邦或一国说，要拔出，拆毁，毁坏。 |
+
+## 8
+
+| Language | Content |
+| --- | --- |
+| English | If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them. |
+| 中文 | 我所说的那一邦，若是转意离开他们的恶，我就必后悔，不将我想要施行的灾祸降与他们。 |
+
+## 9
+
+| Language | Content |
+| --- | --- |
+| English | And at what instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant it; |
+| 中文 | 我何时论到一邦或一国说，要建立，栽植。 |
+
+## 10
+
+| Language | Content |
+| --- | --- |
+| English | If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them. |
+| 中文 | 他们若行我眼中看为恶的事，不听从我的话，我就必后悔，不将我所说的福气赐给他们。 |
+
+## 11
+
+| Language | Content |
+| --- | --- |
+| English | Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the LORD; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good. |
+| 中文 | 现在你要对犹大人和耶路撒冷的居民说，耶和华如此说，我造出灾祸攻击你们，定意刑罚你们。你们各人当回头离开所行的恶道，改正你们的行动作为。 |
+
+## 12
+
+| Language | Content |
+| --- | --- |
+| English | And they said, There is no hope: but we will walk after our own devices, and we will every one do the imagination of his evil heart. |
+| 中文 | 他们却说，这是枉然。我们要照自己的计谋去行。各人随自己顽梗的恶心作事。 |
+
+## 13
+
+| Language | Content |
+| --- | --- |
+| English | Therefore thus saith the LORD; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing. |
+| 中文 | 所以，耶和华如此说，你们且往各国访问，有谁听见这样的事。以色列民（原文作处女）行了一件极可憎恶的事。 |
+
+## 14
+
+| Language | Content |
+| --- | --- |
+| English | Will a man leave the snow of Lebanon which cometh from the rock of the field? or shall the cold flowing waters that come from another place be forsaken? |
+| 中文 | 黎巴嫩的雪从田野的磐石上岂能断绝呢。从远处流下的凉水岂能乾涸呢。 |
+
+## 15
+
+| Language | Content |
+| --- | --- |
+| English | Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways from the ancient paths, to walk in paths, in a way not cast up; |
+| 中文 | 我的百姓竟忘记我，向假神烧香，使他们在所行的路上，在古道上绊跌，使他们行没有修筑的斜路， |
+
+## 16
+
+| Language | Content |
+| --- | --- |
+| English | To make their land desolate, and a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head. |
+| 中文 | 以致他们的地令人惊骇，常常嗤笑。凡经过这地的必惊骇摇头。 |
+
+## 17
+
+| Language | Content |
+| --- | --- |
+| English | I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity. |
+| 中文 | 我必在仇敌面前分散他们，好像用东风吹散一样。遭难的日子，我必以背向他们，不以面向他们。 |
+
+## 18
+
+| Language | Content |
+| --- | --- |
+| English | Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words. |
+| 中文 | 他们就说，来吧。我们可以设计谋害耶利米。因为我们有祭司讲律法，智慧人设谋略，先知说预言，都不能断绝。来吧。我们可以用舌头击打他，不要理会他的一切话。 |
+
+## 19
+
+| Language | Content |
+| --- | --- |
+| English | Give heed to me, O LORD, and hearken to the voice of them that contend with me. |
+| 中文 | 耶和华阿，求你理会我，且听那些与我争竞之人的话。 |
+
+## 20
+
+| Language | Content |
+| --- | --- |
+| English | Shall evil be recompensed for good? for they have digged a pit for my soul. Remember that I stood before thee to speak good for them, and to turn away thy wrath from them. |
+| 中文 | 岂可以恶报善呢。他们竟挖坑要害我的性命。求你记念我怎样站在你面前为他们代求，要使你的忿怒向他们转消。 |
+
+## 21
+
+| Language | Content |
+| --- | --- |
+| English | Therefore deliver up their children to the famine, and pour out their blood by the force of the sword; and let their wives be bereaved of their children, and be widows; and let their men be put to death; let their young men be slain by the sword in battle. |
+| 中文 | 故此，愿你将他们的儿女交与饥荒和刀剑。愿他们的妻无子，且作寡妇。又愿他们的男人被死亡所灭，他们的少年人在阵上被刀击杀。 |
+
+## 22
+
+| Language | Content |
+| --- | --- |
+| English | Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet. |
+| 中文 | 你使敌军忽然临到他们的时候，愿人听见哀声从他们的屋内发出。因他们挖坑要捉拿我，暗设网罗要绊我的脚。 |
+
+## 23
+
+| Language | Content |
+| --- | --- |
+| English | Yet, LORD, thou knowest all their counsel against me to slay me: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal thus with them in the time of thine anger. |
+| 中文 | 耶和华阿，他们要杀我的那一切计谋，你都知道。不要赦免他们的罪孽，也不要从你面前涂抹他们的罪恶，要叫他们在你面前跌倒。愿你发怒的时候罚办他们。 |

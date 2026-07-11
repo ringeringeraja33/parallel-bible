@@ -1,0 +1,309 @@
+# 1 Chronicles 9
+
+## 1
+
+| Language | Content |
+| --- | --- |
+| English | So all Israel were reckoned by genealogies; and, behold, they were written in the book of the kings of Israel and Judah, who were carried away to Babylon for their transgression. |
+| 中文 | 以色列人都按家谱计算，写在以色列诸王记上。犹大人因犯罪就被掳到巴比伦。 |
+
+## 2
+
+| Language | Content |
+| --- | --- |
+| English | Now the first inhabitants that dwelt in their possessions in their cities were, the Israelites, the priests, Levites, and the Nethinims. |
+| 中文 | 先从巴比伦回来，住在自己地业城邑中的有以色列人，祭司，利未人，尼提宁的首领。 |
+
+## 3
+
+| Language | Content |
+| --- | --- |
+| English | And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim, and Manasseh; |
+| 中文 | 住在耶路撒冷的有犹大人，便雅悯人，以法莲人，玛拿西人。 |
+
+## 4
+
+| Language | Content |
+| --- | --- |
+| English | Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani, of the children of Pharez the son of Judah. |
+| 中文 | 犹大儿子法勒斯的子孙中有乌太。乌太是亚米忽的儿子。亚米忽是暗利的儿子。暗利是音利的儿子。音利是巴尼的儿子。 |
+
+## 5
+
+| Language | Content |
+| --- | --- |
+| English | And of the Shilonites; Asaiah the firstborn, and his sons. |
+| 中文 | 示罗的子孙中有长子亚帅雅和他的众子。 |
+
+## 6
+
+| Language | Content |
+| --- | --- |
+| English | And of the sons of Zerah; Jeuel, and their brethren, six hundred and ninety. |
+| 中文 | 谢拉的子孙中有耶乌利和他的弟兄，共六百九十人。 |
+
+## 7
+
+| Language | Content |
+| --- | --- |
+| English | And of the sons of Benjamin; Sallu the son of Meshullam, the son of Hodaviah, the son of Hasenuah, |
+| 中文 | 便雅悯人中有哈西努的曾孙，何达威雅的孙子，米书兰的儿子撒路， |
+
+## 8
+
+| Language | Content |
+| --- | --- |
+| English | And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah; |
+| 中文 | 又有耶罗罕的儿子伊比尼雅，米基立的孙子，乌西的儿子以拉，伊比尼雅的曾孙，流珥的孙子，示法提雅的儿子米书兰， |
+
+## 9
+
+| Language | Content |
+| --- | --- |
+| English | And their brethren, according to their generations, nine hundred and fifty and six. All these men were chief of the fathers in the house of their fathers. |
+| 中文 | 和他们的族弟兄，按着家谱计算共有九百五十六名。这些人都是他们的族长。 |
+
+## 10
+
+| Language | Content |
+| --- | --- |
+| English | And of the priests; Jedaiah, and Jehoiarib, and Jachin, |
+| 中文 | 祭司中有耶大雅，耶何雅立，雅斤， |
+
+## 11
+
+| Language | Content |
+| --- | --- |
+| English | And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God; |
+| 中文 | 还有管理神殿希勒家的儿子亚萨利雅。希勒家是米书兰的儿子。米书兰是撒督的儿子。撒督是米拉约的儿子。米拉约是亚希突的儿子。 |
+
+## 12
+
+| Language | Content |
+| --- | --- |
+| English | And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer; |
+| 中文 | 有玛基雅的曾孙，巴施户珥的孙子，耶罗罕的儿子亚大雅，又有亚第业的儿子玛赛。亚第业是雅希细拉的儿子。雅希细拉是米书兰的儿子。米书兰是米实利密的儿子。米实利密是音麦的儿子。 |
+
+## 13
+
+| Language | Content |
+| --- | --- |
+| English | And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God. |
+| 中文 | 他们和众弟兄都是族长，共有一千七百六十人，是善于作神殿使用之工的。 |
+
+## 14
+
+| Language | Content |
+| --- | --- |
+| English | And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari; |
+| 中文 | 利未人米拉利的子孙中，有哈沙比雅的曾孙，押利甘的孙子，哈述的儿子示玛雅。 |
+
+## 15
+
+| Language | Content |
+| --- | --- |
+| English | And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph; |
+| 中文 | 有拔巴甲，黑勒施，迦拉，并亚萨的曾孙，细基利的孙子，米迦的儿子玛探雅， |
+
+## 16
+
+| Language | Content |
+| --- | --- |
+| English | And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites. |
+| 中文 | 又有耶杜顿的曾孙，迦拉的孙子，示玛雅的儿子俄巴底，还有以利加拿的孙子，亚撒的儿子比利家。他们都住在尼陀法人的村庄。 |
+
+## 17
+
+| Language | Content |
+| --- | --- |
+| English | And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the chief; |
+| 中文 | 守门的是沙龙，亚谷，达们，亚希幔，和他们的弟兄。沙龙为长。 |
+
+## 18
+
+| Language | Content |
+| --- | --- |
+| English | Who hitherto waited in the king's gate eastward: they were porters in the companies of the children of Levi. |
+| 中文 | 从前赦些人看守朝东的王门，如今是利未营中守门的。 |
+
+## 19
+
+| Language | Content |
+| --- | --- |
+| English | And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the LORD, were keepers of the entry. |
+| 中文 | 可拉的曾孙，以比雅撒的孙子，可利的儿子沙龙，和他的族弟兄可拉人都管理使用之工，并守会幕的门。他们的祖宗曾管理耶和华的营盘，又把守营门。 |
+
+## 20
+
+| Language | Content |
+| --- | --- |
+| English | And Phinehas the son of Eleazar was the ruler over them in time past, and the LORD was with him. |
+| 中文 | 从前以利亚撒的儿子非尼哈管理他们，耶和华也与他同在。 |
+
+## 21
+
+| Language | Content |
+| --- | --- |
+| English | And Zechariah the son of Meshelemiah was porter of the door of the tabernacle of the congregation. |
+| 中文 | 米施利米雅的儿子撒迦利雅是看守会幕之门的。 |
+
+## 22
+
+| Language | Content |
+| --- | --- |
+| English | All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office. |
+| 中文 | 被选守门的人共有二百一十二名。他们在自己的村庄，按着家谱计算，是大卫和先见撒母耳所派当这紧要职任的。 |
+
+## 23
+
+| Language | Content |
+| --- | --- |
+| English | So they and their children had the oversight of the gates of the house of the LORD, namely, the house of the tabernacle, by wards. |
+| 中文 | 他们和他们的子孙按着班次看守耶和华殿的门，就是会幕的门。 |
+
+## 24
+
+| Language | Content |
+| --- | --- |
+| English | In four quarters were the porters, toward the east, west, north, and south. |
+| 中文 | 在东西南北，四方都有守门的。 |
+
+## 25
+
+| Language | Content |
+| --- | --- |
+| English | And their brethren, which were in their villages, were to come after seven days from time to time with them. |
+| 中文 | 他们的族弟兄住在村庄，每七日来与他们换班。 |
+
+## 26
+
+| Language | Content |
+| --- | --- |
+| English | For these Levites, the four chief porters, were in their set office, and were over the chambers and treasuries of the house of God. |
+| 中文 | 这四个门领都是利未人，各有紧要的职任，看守神殿的仓库。 |
+
+## 27
+
+| Language | Content |
+| --- | --- |
+| English | And they lodged round about the house of God, because the charge was upon them, and the opening thereof every morning pertained to them. |
+| 中文 | 他们住在神殿的四围，是因委托他们守殿，要每日早晨开门。 |
+
+## 28
+
+| Language | Content |
+| --- | --- |
+| English | And certain of them had the charge of the ministering vessels, that they should bring them in and out by tale. |
+| 中文 | 利未人中有管理使用器皿的，按着数目拿出拿入。 |
+
+## 29
+
+| Language | Content |
+| --- | --- |
+| English | Some of them also were appointed to oversee the vessels, and all the instruments of the sanctuary, and the fine flour, and the wine, and the oil, and the frankincense, and the spices. |
+| 中文 | 又有人管理器具和圣所的器皿，并细面，酒，油，乳香，香料。 |
+
+## 30
+
+| Language | Content |
+| --- | --- |
+| English | And some of the sons of the priests made the ointment of the spices. |
+| 中文 | 祭司中有人用香料作膏油。 |
+
+## 31
+
+| Language | Content |
+| --- | --- |
+| English | And Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans. |
+| 中文 | 利未人玛他提雅是可拉族沙龙的长子，他紧要的职任是管理盘中烤的物。 |
+
+## 32
+
+| Language | Content |
+| --- | --- |
+| English | And other of their brethren, of the sons of the Kohathites, were over the shewbread, to prepare it every sabbath. |
+| 中文 | 他们族弟兄哥辖子孙中，有管理陈设饼的，每安息日预备摆列。 |
+
+## 33
+
+| Language | Content |
+| --- | --- |
+| English | And these are the singers, chief of the fathers of the Levites, who remaining in the chambers were free: for they were employed in that work day and night. |
+| 中文 | 歌唱的有利未人的族长，住在属殿的房屋，昼夜供职，不作别样的工。 |
+
+## 34
+
+| Language | Content |
+| --- | --- |
+| English | These chief fathers of the Levites were chief throughout their generations; these dwelt at Jerusalem. |
+| 中文 | 以上都是利未人着名的族长，住在耶路撒冷。 |
+
+## 35
+
+| Language | Content |
+| --- | --- |
+| English | And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife's name was Maachah, |
+| 中文 | 在基遍住的有基遍的父亲耶利。他的妻名叫玛迦。 |
+
+## 36
+
+| Language | Content |
+| --- | --- |
+| English | And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab, |
+| 中文 | 他长子是亚伯顿。他又生苏珥，基士，巴力，尼珥，拿答， |
+
+## 37
+
+| Language | Content |
+| --- | --- |
+| English | And Gedor, and Ahio, and Zechariah, and Mikloth. |
+| 中文 | 基多，亚希约，撒迦利雅，米基罗。 |
+
+## 38
+
+| Language | Content |
+| --- | --- |
+| English | And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren. |
+| 中文 | 米基罗生示米暗。这些人和他们的弟兄在耶路撒冷对面居住。 |
+
+## 39
+
+| Language | Content |
+| --- | --- |
+| English | And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal. |
+| 中文 | 尼珥生基士。基士生扫罗。扫罗生约拿单，麦基舒亚，亚比拿达，伊施巴力。 |
+
+## 40
+
+| Language | Content |
+| --- | --- |
+| English | And the son of Jonathan was Meribbaal: and Meribbaal begat Micah. |
+| 中文 | 约拿单的儿子是米力巴力（米力巴力即米非波设）。米力巴力生米迦。 |
+
+## 41
+
+| Language | Content |
+| --- | --- |
+| English | And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz. |
+| 中文 | 米迦的儿子是毗敦，米勒，他利亚，亚哈斯。 |
+
+## 42
+
+| Language | Content |
+| --- | --- |
+| English | And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza; |
+| 中文 | 亚哈斯生雅拉。雅拉生亚拉篾，亚斯玛威，心利。心利生摩撒。 |
+
+## 43
+
+| Language | Content |
+| --- | --- |
+| English | And Moza begat Binea; and Rephaiah his son, Eleasah his son, Azel his son. |
+| 中文 | 摩撒生比尼亚。比尼亚生利法雅。利法雅的儿子是以利亚萨。以利亚萨的儿子是亚悉。 |
+
+## 44
+
+| Language | Content |
+| --- | --- |
+| English | And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel. |
+| 中文 | 亚悉有六个儿子，他们的名字是亚斯利干，波基路，以实玛利，示亚利雅，俄巴底雅，哈难。这都是亚悉的儿子。 |

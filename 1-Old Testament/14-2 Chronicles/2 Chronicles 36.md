@@ -1,0 +1,162 @@
+# 2 Chronicles 36
+
+## 1
+
+| Language | Content |
+| --- | --- |
+| English | Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father's stead in Jerusalem. |
+| 中文 | 国民立约西亚的儿子约哈斯在耶路撒冷接续他父作王。 |
+
+## 2
+
+| Language | Content |
+| --- | --- |
+| English | Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem. |
+| 中文 | 约哈斯登基的时候年二十三岁，在耶路撒冷作王三个月。 |
+
+## 3
+
+| Language | Content |
+| --- | --- |
+| English | And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold. |
+| 中文 | 埃及王在耶路撒冷废了他，又罚犹大国银子一百他连得，金子一他连得。 |
+
+## 4
+
+| Language | Content |
+| --- | --- |
+| English | And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt. |
+| 中文 | 埃及王尼哥立约哈斯的哥哥以利雅敬作犹大和耶路撒冷的王，改名叫约雅敬，又将约哈斯带到埃及去了。 |
+
+## 5
+
+| Language | Content |
+| --- | --- |
+| English | Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God. |
+| 中文 | 约雅敬登基的时候年二十五岁，在耶路撒冷作王十一年，行耶和华他神眼中看为恶的事。 |
+
+## 6
+
+| Language | Content |
+| --- | --- |
+| English | Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon. |
+| 中文 | 巴比伦王尼布甲尼撒上来攻击他，用铜链锁着他，要将他带到巴比伦去。 |
+
+## 7
+
+| Language | Content |
+| --- | --- |
+| English | Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon. |
+| 中文 | 尼布甲尼撒又将耶和华殿里的器皿带到巴比伦，放在他神的庙里（或作自己的宫里）。 |
+
+## 8
+
+| Language | Content |
+| --- | --- |
+| English | Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead. |
+| 中文 | 约雅敬其馀的事和他所行可憎的事，并他一切的行为，都写在以色列和犹大列王记上。他儿子约雅斤接续他作王。 |
+
+## 9
+
+| Language | Content |
+| --- | --- |
+| English | Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD. |
+| 中文 | 约雅斤登基的时候年八岁（列王下二十四章八节作十八岁），在耶路撒冷作王三个月零十天，行耶和华眼中看为恶的事。 |
+
+## 10
+
+| Language | Content |
+| --- | --- |
+| English | And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem. |
+| 中文 | 过了一年，尼布甲尼撒差遣人将约雅斤和耶和华殿里各样宝贵的器皿带到巴比伦，就立约雅斤的叔叔（原文作兄）西底家，作犹大和耶路撒冷的王。 |
+
+## 11
+
+| Language | Content |
+| --- | --- |
+| English | Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem. |
+| 中文 | 西底家登基的时候年二十一岁，在耶路撒冷作王十一年， |
+
+## 12
+
+| Language | Content |
+| --- | --- |
+| English | And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD. |
+| 中文 | 行耶和华他神眼中看为恶的事。先知耶利米以耶和华的话劝他，他仍不在耶利米面前自卑。 |
+
+## 13
+
+| Language | Content |
+| --- | --- |
+| English | And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel. |
+| 中文 | 尼布甲尼撒曾使他指着神起誓，他却背叛，强项硬心，不归服耶和华以色列的神。 |
+
+## 14
+
+| Language | Content |
+| --- | --- |
+| English | Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem. |
+| 中文 | 众祭司长和百姓也大大犯罪，效法外邦人一切可憎的事，污秽耶和华在耶路撒冷分别为圣的殿。 |
+
+## 15
+
+| Language | Content |
+| --- | --- |
+| English | And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place: |
+| 中文 | 耶和华他们列祖的神因为爱惜自己的民和他的居所，从早起来差遣使者去警戒他们。 |
+
+## 16
+
+| Language | Content |
+| --- | --- |
+| English | But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy. |
+| 中文 | 他们却嘻笑神的使者，藐视他的言语，讥诮他的先知，以致耶和华的忿怒向他的百姓发作，无法可救。 |
+
+## 17
+
+| Language | Content |
+| --- | --- |
+| English | Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand. |
+| 中文 | 所以，耶和华使迦勒底人的王来攻击他们，在他们圣殿里用刀杀了他们的壮丁，不怜恤他们的少男处女，老人白叟。耶和华将他们都交在迦勒底王手里。 |
+
+## 18
+
+| Language | Content |
+| --- | --- |
+| English | And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon. |
+| 中文 | 迦勒底王将神殿里的大小器皿与耶和华殿里的财宝，并王和众首领的财宝，都带到巴比伦去了。 |
+
+## 19
+
+| Language | Content |
+| --- | --- |
+| English | And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof. |
+| 中文 | 迦勒底人焚烧神的殿，拆毁耶路撒冷的城墙，用火烧了城里的宫殿，毁坏了城里宝贵的器皿。 |
+
+## 20
+
+| Language | Content |
+| --- | --- |
+| English | And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia: |
+| 中文 | 凡脱离刀剑的，迦勒底王都掳到巴比伦去，作他和他子孙的仆婢，直到波斯国兴起来。 |
+
+## 21
+
+| Language | Content |
+| --- | --- |
+| English | To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years. |
+| 中文 | 这就应验耶和华藉耶利米口所说的话，地享受安息。因为地土荒凉便守安息，直满了七十年。 |
+
+## 22
+
+| Language | Content |
+| --- | --- |
+| English | Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, |
+| 中文 | 波斯王居鲁士元年，耶和华为要应验藉耶利米口所说的话，就激动波斯王塞鲁士的心，使他下诏通告全国，说， |
+
+## 23
+
+| Language | Content |
+| --- | --- |
+| English | Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up. |
+| 中文 | 波斯王居鲁士如此说，耶和华天上的神已将天下万国赐给我，又嘱咐我在犹大的耶路撒冷为他建造殿宇。你们中间凡作他子民的，可以上去，愿耶和华他的神与他同在。 |

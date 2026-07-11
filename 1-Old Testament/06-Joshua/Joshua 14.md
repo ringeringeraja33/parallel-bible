@@ -1,0 +1,106 @@
+# Joshua 14
+
+## 1
+
+| Language | Content |
+| --- | --- |
+| English | And these are the countries which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them. |
+| 中文 | 以色列人在迦南地所得的产业，就是祭司以利亚撒和嫩的儿子约书亚，并以色列各支派的族长所分给他们的，都记在下面， |
+
+## 2
+
+| Language | Content |
+| --- | --- |
+| English | By lot was their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes, and for the half tribe. |
+| 中文 | 是照耶和华藉摩西所吩咐的，把产业拈阄分给九个半支派。 |
+
+## 3
+
+| Language | Content |
+| --- | --- |
+| English | For Moses had given the inheritance of two tribes and an half tribe on the other side Jordan: but unto the Levites he gave none inheritance among them. |
+| 中文 | 原来，摩西在约旦河东已经把产业分给那两个半支派，只是在他们中间没有把产业分给利未人。 |
+
+## 4
+
+| Language | Content |
+| --- | --- |
+| English | For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell in, with their suburbs for their cattle and for their substance. |
+| 中文 | 因为约瑟的子孙是两个支派，就是玛拿西和以法莲，所以没有把地分给利未人，但给他们城邑居住，并城邑的郊野，可以牧养他们的牲畜，安置他们的财物。 |
+
+## 5
+
+| Language | Content |
+| --- | --- |
+| English | As the LORD commanded Moses, so the children of Israel did, and they divided the land. |
+| 中文 | 耶和华怎样吩咐摩西，以色列人就照样行，把地分了。 |
+
+## 6
+
+| Language | Content |
+| --- | --- |
+| English | Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the LORD said unto Moses the man of God concerning me and thee in Kadeshbarnea. |
+| 中文 | 那时，犹大人来到吉甲见约书亚，有基尼洗族耶孚尼的儿子迦勒对约书亚说，耶和华在加低斯巴尼亚指着我与你对神人摩西所说的话，你都知道了。 |
+
+## 7
+
+| Language | Content |
+| --- | --- |
+| English | Forty years old was I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as it was in mine heart. |
+| 中文 | 耶和华的仆人摩西从加低斯巴尼亚打发我窥探这地，那时我正四十岁。我按着心意回报他。 |
+
+## 8
+
+| Language | Content |
+| --- | --- |
+| English | Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the LORD my God. |
+| 中文 | 然而，同我上去的众弟兄使百姓的心消化。但我专心跟从耶和华我的神。 |
+
+## 9
+
+| Language | Content |
+| --- | --- |
+| English | And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children's for ever, because thou hast wholly followed the LORD my God. |
+| 中文 | 当日摩西起誓说，你脚所踏之地定要归你和你的子孙永远为业，因为你专心跟从耶和华我的神。 |
+
+## 10
+
+| Language | Content |
+| --- | --- |
+| English | And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old. |
+| 中文 | 自从耶和华对摩西说这话的时候，耶和华照他所应许的使我存活这四十五年。其间以色列人在旷野行走。看哪，现今我八十五岁了， |
+
+## 11
+
+| Language | Content |
+| --- | --- |
+| English | As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in. |
+| 中文 | 我还是强壮，像摩西打发我去的那天一样。无论是争战，是出入，我的力量那时如何，现在还是如何。 |
+
+## 12
+
+| Language | Content |
+| --- | --- |
+| English | Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the LORD will be with me, then I shall be able to drive them out, as the LORD said. |
+| 中文 | 求你将耶和华那日应许我的这山地给我。那里有亚衲族人，并宽大坚固的城，你也曾听见了。或者耶和华照他所应许的与我同在，我就把他们赶出去。 |
+
+## 13
+
+| Language | Content |
+| --- | --- |
+| English | And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance. |
+| 中文 | 于是约书亚为耶孚尼的儿子迦勒祝福，将希伯仑给他为业。 |
+
+## 14
+
+| Language | Content |
+| --- | --- |
+| English | Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the LORD God of Israel. |
+| 中文 | 所以希伯仑作了基尼洗族耶孚尼的儿子迦勒的产业，直到今日，因为他专心跟从耶和华以色列的神。 |
+
+## 15
+
+| Language | Content |
+| --- | --- |
+| English | And the name of Hebron before was Kirjatharba; which Arba was a great man among the Anakims. And the land had rest from war. |
+| 中文 | 希伯仑从前名叫基列亚巴。亚巴是亚衲族中最尊大的人。于是国中太平，没有争战了。 |

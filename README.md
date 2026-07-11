@@ -52,6 +52,15 @@ To add a language, add a labeled row to each verse's table (e.g. `| Français | 
 
 > 每一节是一个标题加一个两列表格：第一列为语言，第二列为内容。新增语言时，只需在每一节的表格中加入对应的一行。
 
+## Versification marker `*` / 分节标记 `*`
+
+The English (KJV) and Chinese (和合本) traditions do not always split verses at the same place. Where they diverge, the Chinese cell is prefixed with an asterisk `*`:
+
+- A cell containing **only** `*` means this KJV verse has no separate Chinese text — 和合本 merged it into an adjacent verse, so the text appears there instead (the cell is intentionally blank, not a missing translation).
+- A cell with `*` **before text** means the Chinese sentence continues across a KJV verse boundary that does not align with the 和合本 numbering.
+
+> 詹姆士王译本（KJV）与和合本的分节位置并不总是一致。凡两者分节不同之处，中文内容前会加一个星号 `*`：单元格中**只有** `*`，表示该 KJV 节在和合本里并入了相邻的一节，正文出现在那一节（此处为有意留空，并非漏译）；`*` 在**文字之前**，表示该中文句子跨越了与和合本编号不对齐的 KJV 节界。
+
 ## Contents / 内容规模
 
 - 66 books / 66 卷

@@ -1,4 +1,4 @@
-# Proverbs 16
+# Proverbs 16 / 箴言 16
 
 ## 1
 

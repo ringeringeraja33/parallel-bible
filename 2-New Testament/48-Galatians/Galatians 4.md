@@ -1,4 +1,4 @@
-# Galatians 4
+# Galatians 4 / 加拉太书 4
 
 ## 1
 

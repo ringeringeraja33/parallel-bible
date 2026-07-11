@@ -1,4 +1,4 @@
-# Deuteronomy 19
+# Deuteronomy 19 / 申命记 19
 
 ## 1
 

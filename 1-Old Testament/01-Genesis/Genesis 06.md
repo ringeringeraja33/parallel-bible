@@ -1,4 +1,4 @@
-# Genesis 6
+# Genesis 6 / 创世记 6
 
 ## 1
 

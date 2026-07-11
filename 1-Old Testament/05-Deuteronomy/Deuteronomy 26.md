@@ -1,4 +1,4 @@
-# Deuteronomy 26
+# Deuteronomy 26 / 申命记 26
 
 ## 1
 

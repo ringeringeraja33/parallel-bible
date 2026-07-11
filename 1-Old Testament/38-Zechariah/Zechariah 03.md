@@ -1,4 +1,4 @@
-# Zechariah 3
+# Zechariah 3 / 撒迦利亚书 3
 
 ## 1
 

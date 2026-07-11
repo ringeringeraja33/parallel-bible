@@ -1,4 +1,4 @@
-# 2 Chronicles 31
+# 2 Chronicles 31 / 历代志下 31
 
 ## 1
 

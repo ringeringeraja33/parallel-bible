@@ -1,4 +1,4 @@
-# Proverbs 15
+# Proverbs 15 / 箴言 15
 
 ## 1
 

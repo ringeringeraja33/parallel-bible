@@ -1,4 +1,4 @@
-# Ezekiel 46
+# Ezekiel 46 / 以西结书 46
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Deuteronomy 2
+# Deuteronomy 2 / 申命记 2
 
 ## 1
 

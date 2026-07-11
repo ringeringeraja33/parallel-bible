@@ -1,4 +1,4 @@
-# Proverbs 6
+# Proverbs 6 / 箴言 6
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Numbers 13
+# Numbers 13 / 民数记 13
 
 ## 1
 

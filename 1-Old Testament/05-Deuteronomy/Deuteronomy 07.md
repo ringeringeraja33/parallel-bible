@@ -1,4 +1,4 @@
-# Deuteronomy 7
+# Deuteronomy 7 / 申命记 7
 
 ## 1
 

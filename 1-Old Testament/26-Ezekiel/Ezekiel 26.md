@@ -1,4 +1,4 @@
-# Ezekiel 26
+# Ezekiel 26 / 以西结书 26
 
 ## 1
 

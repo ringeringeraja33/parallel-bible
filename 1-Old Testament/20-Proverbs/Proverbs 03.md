@@ -1,4 +1,4 @@
-# Proverbs 3
+# Proverbs 3 / 箴言 3
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Genesis 12
+# Genesis 12 / 创世记 12
 
 ## 1
 

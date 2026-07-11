@@ -1,4 +1,4 @@
-# Jeremiah 35
+# Jeremiah 35 / 耶利米书 35
 
 ## 1
 

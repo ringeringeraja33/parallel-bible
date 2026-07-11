@@ -1,4 +1,4 @@
-# 2 Chronicles 18
+# 2 Chronicles 18 / 历代志下 18
 
 ## 1
 

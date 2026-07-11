@@ -1,4 +1,4 @@
-# Psalms 8
+# Psalms 8 / 诗篇 8
 
 ## 1
 

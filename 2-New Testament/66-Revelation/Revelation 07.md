@@ -1,4 +1,4 @@
-# Revelation 7
+# Revelation 7 / 启示录 7
 
 ## 1
 

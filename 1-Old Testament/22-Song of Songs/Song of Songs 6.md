@@ -1,4 +1,4 @@
-# Song of Songs 6
+# Song of Songs 6 / 雅歌 6
 
 ## 1
 

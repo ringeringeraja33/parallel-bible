@@ -1,4 +1,4 @@
-# Nehemiah 6
+# Nehemiah 6 / 尼希米记 6
 
 ## 1
 

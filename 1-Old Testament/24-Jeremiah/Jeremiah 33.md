@@ -1,4 +1,4 @@
-# Jeremiah 33
+# Jeremiah 33 / 耶利米书 33
 
 ## 1
 

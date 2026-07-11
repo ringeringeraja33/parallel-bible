@@ -1,4 +1,4 @@
-# Leviticus 12
+# Leviticus 12 / 利未记 12
 
 ## 1
 

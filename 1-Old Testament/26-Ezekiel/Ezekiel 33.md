@@ -1,4 +1,4 @@
-# Ezekiel 33
+# Ezekiel 33 / 以西结书 33
 
 ## 1
 

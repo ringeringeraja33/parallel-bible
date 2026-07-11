@@ -1,4 +1,4 @@
-# Psalms 5
+# Psalms 5 / 诗篇 5
 
 ## 1
 

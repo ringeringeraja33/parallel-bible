@@ -1,4 +1,4 @@
-# 2 Chronicles 30
+# 2 Chronicles 30 / 历代志下 30
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Jeremiah 30
+# Jeremiah 30 / 耶利米书 30
 
 ## 1
 

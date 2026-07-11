@@ -1,4 +1,4 @@
-# Ezekiel 35
+# Ezekiel 35 / 以西结书 35
 
 ## 1
 

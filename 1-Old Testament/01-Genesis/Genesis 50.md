@@ -1,4 +1,4 @@
-# Genesis 50
+# Genesis 50 / 创世记 50
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Deuteronomy 1
+# Deuteronomy 1 / 申命记 1
 
 ## 1
 

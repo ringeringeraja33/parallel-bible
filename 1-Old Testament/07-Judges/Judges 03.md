@@ -1,4 +1,4 @@
-# Judges 3
+# Judges 3 / 士师记 3
 
 ## 1
 

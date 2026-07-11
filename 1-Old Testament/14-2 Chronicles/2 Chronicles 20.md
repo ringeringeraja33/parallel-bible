@@ -1,4 +1,4 @@
-# 2 Chronicles 20
+# 2 Chronicles 20 / 历代志下 20
 
 ## 1
 

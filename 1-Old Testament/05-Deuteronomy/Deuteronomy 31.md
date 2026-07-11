@@ -1,4 +1,4 @@
-# Deuteronomy 31
+# Deuteronomy 31 / 申命记 31
 
 ## 1
 

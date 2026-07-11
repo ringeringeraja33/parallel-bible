@@ -1,4 +1,4 @@
-# Hebrews 10
+# Hebrews 10 / 希伯来书 10
 
 ## 1
 

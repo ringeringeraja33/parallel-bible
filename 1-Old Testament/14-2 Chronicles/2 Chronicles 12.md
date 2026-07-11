@@ -1,4 +1,4 @@
-# 2 Chronicles 12
+# 2 Chronicles 12 / 历代志下 12
 
 ## 1
 

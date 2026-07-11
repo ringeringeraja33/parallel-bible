@@ -1,4 +1,4 @@
-# Genesis 43
+# Genesis 43 / 创世记 43
 
 ## 1
 

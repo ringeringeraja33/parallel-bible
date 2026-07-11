@@ -1,4 +1,4 @@
-# Jeremiah 38
+# Jeremiah 38 / 耶利米书 38
 
 ## 1
 

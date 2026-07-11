@@ -1,4 +1,4 @@
-# Proverbs 27
+# Proverbs 27 / 箴言 27
 
 ## 1
 

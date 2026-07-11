@@ -1,4 +1,4 @@
-# Deuteronomy 20
+# Deuteronomy 20 / 申命记 20
 
 ## 1
 

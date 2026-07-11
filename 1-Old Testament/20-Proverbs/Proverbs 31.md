@@ -1,4 +1,4 @@
-# Proverbs 31
+# Proverbs 31 / 箴言 31
 
 ## 1
 

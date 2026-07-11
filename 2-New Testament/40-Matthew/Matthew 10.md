@@ -1,4 +1,4 @@
-# Matthew 10
+# Matthew 10 / 马太福音 10
 
 ## 1
 

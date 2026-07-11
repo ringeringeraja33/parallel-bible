@@ -1,4 +1,4 @@
-# 1 Chronicles 11
+# 1 Chronicles 11 / 历代志上 11
 
 ## 1
 

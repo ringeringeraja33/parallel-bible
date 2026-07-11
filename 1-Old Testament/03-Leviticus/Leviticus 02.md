@@ -1,4 +1,4 @@
-# Leviticus 2
+# Leviticus 2 / 利未记 2
 
 ## 1
 

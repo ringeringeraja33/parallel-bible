@@ -1,4 +1,4 @@
-# Jeremiah 4
+# Jeremiah 4 / 耶利米书 4
 
 ## 1
 

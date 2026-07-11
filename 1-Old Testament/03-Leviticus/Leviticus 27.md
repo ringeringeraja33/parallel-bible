@@ -1,4 +1,4 @@
-# Leviticus 27
+# Leviticus 27 / 利未记 27
 
 ## 1
 

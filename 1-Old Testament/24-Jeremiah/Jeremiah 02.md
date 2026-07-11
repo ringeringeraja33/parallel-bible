@@ -1,4 +1,4 @@
-# Jeremiah 2
+# Jeremiah 2 / 耶利米书 2
 
 ## 1
 

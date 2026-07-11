@@ -1,4 +1,4 @@
-# 1 Chronicles 16
+# 1 Chronicles 16 / 历代志上 16
 
 ## 1
 

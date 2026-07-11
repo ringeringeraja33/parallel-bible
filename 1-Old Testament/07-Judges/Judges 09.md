@@ -1,4 +1,4 @@
-# Judges 9
+# Judges 9 / 士师记 9
 
 ## 1
 

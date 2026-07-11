@@ -1,4 +1,4 @@
-# 2 Corinthians 5
+# 2 Corinthians 5 / 哥林多后书 5
 
 ## 1
 

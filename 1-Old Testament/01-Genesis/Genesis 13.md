@@ -1,4 +1,4 @@
-# Genesis 13
+# Genesis 13 / 创世记 13
 
 ## 1
 

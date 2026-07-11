@@ -1,4 +1,4 @@
-# Genesis 8
+# Genesis 8 / 创世记 8
 
 ## 1
 

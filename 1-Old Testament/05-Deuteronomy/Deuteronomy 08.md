@@ -1,4 +1,4 @@
-# Deuteronomy 8
+# Deuteronomy 8 / 申命记 8
 
 ## 1
 

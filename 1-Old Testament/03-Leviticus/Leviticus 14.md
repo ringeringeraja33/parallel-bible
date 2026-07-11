@@ -1,4 +1,4 @@
-# Leviticus 14
+# Leviticus 14 / 利未记 14
 
 ## 1
 

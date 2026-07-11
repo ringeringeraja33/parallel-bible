@@ -1,4 +1,4 @@
-# Leviticus 5
+# Leviticus 5 / 利未记 5
 
 ## 1
 

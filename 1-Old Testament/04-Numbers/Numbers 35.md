@@ -1,4 +1,4 @@
-# Numbers 35
+# Numbers 35 / 民数记 35
 
 ## 1
 

@@ -1,4 +1,4 @@
-# 1 Corinthians 8
+# 1 Corinthians 8 / 哥林多前书 8
 
 ## 1
 

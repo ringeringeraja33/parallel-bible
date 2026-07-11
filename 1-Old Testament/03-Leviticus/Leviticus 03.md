@@ -1,4 +1,4 @@
-# Leviticus 3
+# Leviticus 3 / 利未记 3
 
 ## 1
 

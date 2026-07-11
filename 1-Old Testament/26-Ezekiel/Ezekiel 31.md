@@ -1,4 +1,4 @@
-# Ezekiel 31
+# Ezekiel 31 / 以西结书 31
 
 ## 1
 

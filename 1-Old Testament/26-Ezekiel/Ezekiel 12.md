@@ -1,4 +1,4 @@
-# Ezekiel 12
+# Ezekiel 12 / 以西结书 12
 
 ## 1
 

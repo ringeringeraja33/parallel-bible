@@ -1,4 +1,4 @@
-# Ezekiel 40
+# Ezekiel 40 / 以西结书 40
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Deuteronomy 34
+# Deuteronomy 34 / 申命记 34
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Genesis 45
+# Genesis 45 / 创世记 45
 
 ## 1
 

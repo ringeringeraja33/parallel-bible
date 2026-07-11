@@ -1,4 +1,4 @@
-# Genesis 10
+# Genesis 10 / 创世记 10
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Jeremiah 11
+# Jeremiah 11 / 耶利米书 11
 
 ## 1
 

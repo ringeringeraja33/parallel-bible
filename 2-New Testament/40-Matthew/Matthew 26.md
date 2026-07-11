@@ -1,4 +1,4 @@
-# Matthew 26
+# Matthew 26 / 马太福音 26
 
 ## 1
 

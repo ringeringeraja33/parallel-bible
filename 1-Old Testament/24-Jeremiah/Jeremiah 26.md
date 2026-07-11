@@ -1,4 +1,4 @@
-# Jeremiah 26
+# Jeremiah 26 / 耶利米书 26
 
 ## 1
 

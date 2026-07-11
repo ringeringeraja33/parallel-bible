@@ -1,4 +1,4 @@
-# 2 Chronicles 21
+# 2 Chronicles 21 / 历代志下 21
 
 ## 1
 

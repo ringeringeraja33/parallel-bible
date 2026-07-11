@@ -1,4 +1,4 @@
-# Jeremiah 27
+# Jeremiah 27 / 耶利米书 27
 
 ## 1
 

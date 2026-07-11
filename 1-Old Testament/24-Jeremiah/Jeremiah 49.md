@@ -1,4 +1,4 @@
-# Jeremiah 49
+# Jeremiah 49 / 耶利米书 49
 
 ## 1
 

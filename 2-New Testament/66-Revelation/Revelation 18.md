@@ -1,4 +1,4 @@
-# Revelation 18
+# Revelation 18 / 启示录 18
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Galatians 6
+# Galatians 6 / 加拉太书 6
 
 ## 1
 

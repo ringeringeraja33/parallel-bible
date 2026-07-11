@@ -1,4 +1,4 @@
-# 1 Chronicles 1
+# 1 Chronicles 1 / 历代志上 1
 
 ## 1
 

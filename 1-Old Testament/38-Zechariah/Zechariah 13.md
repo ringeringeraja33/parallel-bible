@@ -1,4 +1,4 @@
-# Zechariah 13
+# Zechariah 13 / 撒迦利亚书 13
 
 ## 1
 

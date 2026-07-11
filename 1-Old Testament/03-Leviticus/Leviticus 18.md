@@ -1,4 +1,4 @@
-# Leviticus 18
+# Leviticus 18 / 利未记 18
 
 ## 1
 

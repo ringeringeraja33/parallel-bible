@@ -1,4 +1,4 @@
-# Genesis 44
+# Genesis 44 / 创世记 44
 
 ## 1
 

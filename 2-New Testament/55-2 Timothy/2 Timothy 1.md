@@ -1,4 +1,4 @@
-# 2 Timothy 1
+# 2 Timothy 1 / 提摩太后书 1
 
 ## 1
 

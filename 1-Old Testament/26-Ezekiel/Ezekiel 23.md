@@ -1,4 +1,4 @@
-# Ezekiel 23
+# Ezekiel 23 / 以西结书 23
 
 ## 1
 

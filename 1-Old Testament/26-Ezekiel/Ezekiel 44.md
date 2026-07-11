@@ -1,4 +1,4 @@
-# Ezekiel 44
+# Ezekiel 44 / 以西结书 44
 
 ## 1
 

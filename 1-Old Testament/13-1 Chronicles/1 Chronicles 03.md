@@ -1,4 +1,4 @@
-# 1 Chronicles 3
+# 1 Chronicles 3 / 历代志上 3
 
 ## 1
 

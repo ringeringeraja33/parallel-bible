@@ -1,4 +1,4 @@
-# Proverbs 19
+# Proverbs 19 / 箴言 19
 
 ## 1
 

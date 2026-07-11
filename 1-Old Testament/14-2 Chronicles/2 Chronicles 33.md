@@ -1,4 +1,4 @@
-# 2 Chronicles 33
+# 2 Chronicles 33 / 历代志下 33
 
 ## 1
 

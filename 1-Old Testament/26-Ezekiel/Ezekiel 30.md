@@ -1,4 +1,4 @@
-# Ezekiel 30
+# Ezekiel 30 / 以西结书 30
 
 ## 1
 

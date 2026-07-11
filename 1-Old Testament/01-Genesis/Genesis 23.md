@@ -1,4 +1,4 @@
-# Genesis 23
+# Genesis 23 / 创世记 23
 
 ## 1
 

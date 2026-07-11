@@ -1,4 +1,4 @@
-# 1 Chronicles 12
+# 1 Chronicles 12 / 历代志上 12
 
 ## 1
 

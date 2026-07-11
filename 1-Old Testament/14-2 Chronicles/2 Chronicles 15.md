@@ -1,4 +1,4 @@
-# 2 Chronicles 15
+# 2 Chronicles 15 / 历代志下 15
 
 ## 1
 

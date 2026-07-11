@@ -1,4 +1,4 @@
-# Song of Songs 5
+# Song of Songs 5 / 雅歌 5
 
 ## 1
 

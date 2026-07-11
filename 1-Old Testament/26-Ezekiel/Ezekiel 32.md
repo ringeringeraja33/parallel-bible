@@ -1,4 +1,4 @@
-# Ezekiel 32
+# Ezekiel 32 / 以西结书 32
 
 ## 1
 

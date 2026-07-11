@@ -1,4 +1,4 @@
-# Ecclesiastes 1
+# Ecclesiastes 1 / 传道书 1
 
 ## 1
 

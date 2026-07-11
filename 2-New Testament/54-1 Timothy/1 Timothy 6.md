@@ -1,4 +1,4 @@
-# 1 Timothy 6
+# 1 Timothy 6 / 提摩太前书 6
 
 ## 1
 

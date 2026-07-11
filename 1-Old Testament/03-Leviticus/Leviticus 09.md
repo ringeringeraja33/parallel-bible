@@ -1,4 +1,4 @@
-# Leviticus 9
+# Leviticus 9 / 利未记 9
 
 ## 1
 

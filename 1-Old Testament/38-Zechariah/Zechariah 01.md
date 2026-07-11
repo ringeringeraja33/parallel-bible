@@ -1,4 +1,4 @@
-# Zechariah 1
+# Zechariah 1 / 撒迦利亚书 1
 
 ## 1
 

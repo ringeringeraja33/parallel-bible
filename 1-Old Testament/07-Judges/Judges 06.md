@@ -1,4 +1,4 @@
-# Judges 6
+# Judges 6 / 士师记 6
 
 ## 1
 

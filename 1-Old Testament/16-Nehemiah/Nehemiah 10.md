@@ -1,4 +1,4 @@
-# Nehemiah 10
+# Nehemiah 10 / 尼希米记 10
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Zechariah 8
+# Zechariah 8 / 撒迦利亚书 8
 
 ## 1
 

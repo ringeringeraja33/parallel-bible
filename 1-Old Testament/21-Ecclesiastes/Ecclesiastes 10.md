@@ -1,4 +1,4 @@
-# Ecclesiastes 10
+# Ecclesiastes 10 / 传道书 10
 
 ## 1
 

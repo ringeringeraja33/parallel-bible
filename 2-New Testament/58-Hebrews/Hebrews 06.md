@@ -1,4 +1,4 @@
-# Hebrews 6
+# Hebrews 6 / 希伯来书 6
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Psalms 1
+# Psalms 1 / 诗篇 1
 
 ## 1
 

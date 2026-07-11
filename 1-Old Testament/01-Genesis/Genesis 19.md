@@ -1,4 +1,4 @@
-# Genesis 19
+# Genesis 19 / 创世记 19
 
 ## 1
 

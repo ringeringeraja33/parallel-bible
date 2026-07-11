@@ -1,4 +1,4 @@
-# Ezekiel 22
+# Ezekiel 22 / 以西结书 22
 
 ## 1
 

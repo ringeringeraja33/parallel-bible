@@ -1,4 +1,4 @@
-# Ezekiel 41
+# Ezekiel 41 / 以西结书 41
 
 ## 1
 

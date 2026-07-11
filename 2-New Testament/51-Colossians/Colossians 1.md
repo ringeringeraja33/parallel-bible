@@ -1,4 +1,4 @@
-# Colossians 1
+# Colossians 1 / 歌罗西书 1
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Psalms 2
+# Psalms 2 / 诗篇 2
 
 ## 1
 

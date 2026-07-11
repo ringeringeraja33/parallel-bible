@@ -1,4 +1,4 @@
-# Psalms 9
+# Psalms 9 / 诗篇 9
 
 ## 1
 

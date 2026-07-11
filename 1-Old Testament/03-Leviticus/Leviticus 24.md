@@ -1,4 +1,4 @@
-# Leviticus 24
+# Leviticus 24 / 利未记 24
 
 ## 1
 

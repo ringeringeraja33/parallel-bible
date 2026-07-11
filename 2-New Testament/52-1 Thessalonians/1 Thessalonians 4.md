@@ -1,4 +1,4 @@
-# 1 Thessalonians 4
+# 1 Thessalonians 4 / 帖撒罗尼迦前书 4
 
 ## 1
 

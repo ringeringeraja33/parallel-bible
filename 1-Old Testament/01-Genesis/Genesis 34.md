@@ -1,4 +1,4 @@
-# Genesis 34
+# Genesis 34 / 创世记 34
 
 ## 1
 

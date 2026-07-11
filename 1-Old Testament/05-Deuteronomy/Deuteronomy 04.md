@@ -1,4 +1,4 @@
-# Deuteronomy 4
+# Deuteronomy 4 / 申命记 4
 
 ## 1
 

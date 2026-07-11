@@ -1,4 +1,4 @@
-# Numbers 7
+# Numbers 7 / 民数记 7
 
 ## 1
 

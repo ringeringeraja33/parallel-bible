@@ -1,4 +1,4 @@
-# Proverbs 4
+# Proverbs 4 / 箴言 4
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Haggai 2
+# Haggai 2 / 哈该书 2
 
 ## 1
 

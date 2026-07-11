@@ -1,4 +1,4 @@
-# Revelation 8
+# Revelation 8 / 启示录 8
 
 ## 1
 

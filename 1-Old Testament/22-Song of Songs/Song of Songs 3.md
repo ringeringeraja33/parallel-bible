@@ -1,4 +1,4 @@
-# Song of Songs 3
+# Song of Songs 3 / 雅歌 3
 
 ## 1
 

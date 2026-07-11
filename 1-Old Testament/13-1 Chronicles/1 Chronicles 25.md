@@ -1,4 +1,4 @@
-# 1 Chronicles 25
+# 1 Chronicles 25 / 历代志上 25
 
 ## 1
 

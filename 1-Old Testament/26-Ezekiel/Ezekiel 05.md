@@ -1,4 +1,4 @@
-# Ezekiel 5
+# Ezekiel 5 / 以西结书 5
 
 ## 1
 

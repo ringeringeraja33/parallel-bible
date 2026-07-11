@@ -1,4 +1,4 @@
-# Ecclesiastes 5
+# Ecclesiastes 5 / 传道书 5
 
 ## 1
 

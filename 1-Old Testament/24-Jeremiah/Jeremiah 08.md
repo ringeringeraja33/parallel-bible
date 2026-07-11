@@ -1,4 +1,4 @@
-# Jeremiah 8
+# Jeremiah 8 / 耶利米书 8
 
 ## 1
 

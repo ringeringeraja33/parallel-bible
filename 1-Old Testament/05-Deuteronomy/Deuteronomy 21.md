@@ -1,4 +1,4 @@
-# Deuteronomy 21
+# Deuteronomy 21 / 申命记 21
 
 ## 1
 

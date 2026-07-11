@@ -1,4 +1,4 @@
-# Matthew 6
+# Matthew 6 / 马太福音 6
 
 ## 1
 

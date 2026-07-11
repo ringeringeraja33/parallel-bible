@@ -1,4 +1,4 @@
-# Ezekiel 24
+# Ezekiel 24 / 以西结书 24
 
 ## 1
 

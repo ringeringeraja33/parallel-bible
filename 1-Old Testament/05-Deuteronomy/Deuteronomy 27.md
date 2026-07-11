@@ -1,4 +1,4 @@
-# Deuteronomy 27
+# Deuteronomy 27 / 申命记 27
 
 ## 1
 

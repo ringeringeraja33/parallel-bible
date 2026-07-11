@@ -1,4 +1,4 @@
-# Jeremiah 40
+# Jeremiah 40 / 耶利米书 40
 
 ## 1
 

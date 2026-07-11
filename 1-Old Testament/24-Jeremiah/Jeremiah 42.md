@@ -1,4 +1,4 @@
-# Jeremiah 42
+# Jeremiah 42 / 耶利米书 42
 
 ## 1
 

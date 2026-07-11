@@ -1,4 +1,4 @@
-# Zechariah 2
+# Zechariah 2 / 撒迦利亚书 2
 
 ## 1
 

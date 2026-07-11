@@ -1,4 +1,4 @@
-# 1 Chronicles 28
+# 1 Chronicles 28 / 历代志上 28
 
 ## 1
 

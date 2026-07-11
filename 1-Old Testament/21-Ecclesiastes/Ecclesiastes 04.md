@@ -1,4 +1,4 @@
-# Ecclesiastes 4
+# Ecclesiastes 4 / 传道书 4
 
 ## 1
 

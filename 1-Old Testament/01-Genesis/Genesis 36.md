@@ -1,4 +1,4 @@
-# Genesis 36
+# Genesis 36 / 创世记 36
 
 ## 1
 

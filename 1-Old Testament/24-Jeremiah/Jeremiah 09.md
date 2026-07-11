@@ -1,4 +1,4 @@
-# Jeremiah 9
+# Jeremiah 9 / 耶利米书 9
 
 ## 1
 

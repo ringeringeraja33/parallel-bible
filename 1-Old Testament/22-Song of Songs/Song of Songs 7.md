@@ -1,4 +1,4 @@
-# Song of Songs 7
+# Song of Songs 7 / 雅歌 7
 
 ## 1
 

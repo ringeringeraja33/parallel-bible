@@ -1,4 +1,4 @@
-# Numbers 30
+# Numbers 30 / 民数记 30
 
 ## 1
 

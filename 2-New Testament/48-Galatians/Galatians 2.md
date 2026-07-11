@@ -1,4 +1,4 @@
-# Galatians 2
+# Galatians 2 / 加拉太书 2
 
 ## 1
 

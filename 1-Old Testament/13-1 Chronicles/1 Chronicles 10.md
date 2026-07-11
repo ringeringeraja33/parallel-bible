@@ -1,4 +1,4 @@
-# 1 Chronicles 10
+# 1 Chronicles 10 / 历代志上 10
 
 ## 1
 

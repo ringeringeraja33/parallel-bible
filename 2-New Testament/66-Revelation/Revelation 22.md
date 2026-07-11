@@ -1,4 +1,4 @@
-# Revelation 22
+# Revelation 22 / 启示录 22
 
 ## 1
 

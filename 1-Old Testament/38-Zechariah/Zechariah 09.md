@@ -1,4 +1,4 @@
-# Zechariah 9
+# Zechariah 9 / 撒迦利亚书 9
 
 ## 1
 

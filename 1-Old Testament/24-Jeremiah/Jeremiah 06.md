@@ -1,4 +1,4 @@
-# Jeremiah 6
+# Jeremiah 6 / 耶利米书 6
 
 ## 1
 

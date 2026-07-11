@@ -1,4 +1,4 @@
-# Jeremiah 12
+# Jeremiah 12 / 耶利米书 12
 
 ## 1
 

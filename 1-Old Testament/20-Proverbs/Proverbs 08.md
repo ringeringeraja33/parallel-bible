@@ -1,4 +1,4 @@
-# Proverbs 8
+# Proverbs 8 / 箴言 8
 
 ## 1
 

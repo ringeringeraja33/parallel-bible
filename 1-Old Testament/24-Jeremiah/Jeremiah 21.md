@@ -1,4 +1,4 @@
-# Jeremiah 21
+# Jeremiah 21 / 耶利米书 21
 
 ## 1
 

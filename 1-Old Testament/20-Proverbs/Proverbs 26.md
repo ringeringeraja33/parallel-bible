@@ -1,4 +1,4 @@
-# Proverbs 26
+# Proverbs 26 / 箴言 26
 
 ## 1
 

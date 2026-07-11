@@ -1,4 +1,4 @@
-# Jeremiah 14
+# Jeremiah 14 / 耶利米书 14
 
 ## 1
 

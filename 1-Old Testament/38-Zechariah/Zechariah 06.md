@@ -1,4 +1,4 @@
-# Zechariah 6
+# Zechariah 6 / 撒迦利亚书 6
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Ezekiel 9
+# Ezekiel 9 / 以西结书 9
 
 ## 1
 

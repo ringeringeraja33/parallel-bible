@@ -1,4 +1,4 @@
-# Ezekiel 25
+# Ezekiel 25 / 以西结书 25
 
 ## 1
 

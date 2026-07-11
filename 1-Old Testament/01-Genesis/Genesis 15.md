@@ -1,4 +1,4 @@
-# Genesis 15
+# Genesis 15 / 创世记 15
 
 ## 1
 

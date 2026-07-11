@@ -1,4 +1,4 @@
-# Ezekiel 18
+# Ezekiel 18 / 以西结书 18
 
 ## 1
 

@@ -1,4 +1,4 @@
-# 1 Chronicles 13
+# 1 Chronicles 13 / 历代志上 13
 
 ## 1
 

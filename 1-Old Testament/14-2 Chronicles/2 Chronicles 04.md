@@ -1,4 +1,4 @@
-# 2 Chronicles 4
+# 2 Chronicles 4 / 历代志下 4
 
 ## 1
 

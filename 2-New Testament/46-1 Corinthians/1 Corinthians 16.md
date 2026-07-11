@@ -1,4 +1,4 @@
-# 1 Corinthians 16
+# 1 Corinthians 16 / 哥林多前书 16
 
 ## 1
 

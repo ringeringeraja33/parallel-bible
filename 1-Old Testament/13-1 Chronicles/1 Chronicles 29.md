@@ -1,4 +1,4 @@
-# 1 Chronicles 29
+# 1 Chronicles 29 / 历代志上 29
 
 ## 1
 

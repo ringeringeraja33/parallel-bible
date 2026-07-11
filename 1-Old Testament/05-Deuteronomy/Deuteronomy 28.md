@@ -1,4 +1,4 @@
-# Deuteronomy 28
+# Deuteronomy 28 / 申命记 28
 
 ## 1
 

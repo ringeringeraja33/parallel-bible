@@ -1,4 +1,4 @@
-# Jeremiah 23
+# Jeremiah 23 / 耶利米书 23
 
 ## 1
 

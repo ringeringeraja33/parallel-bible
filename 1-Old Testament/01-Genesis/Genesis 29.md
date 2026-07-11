@@ -1,4 +1,4 @@
-# Genesis 29
+# Genesis 29 / 创世记 29
 
 ## 1
 

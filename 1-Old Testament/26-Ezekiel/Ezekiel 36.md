@@ -1,4 +1,4 @@
-# Ezekiel 36
+# Ezekiel 36 / 以西结书 36
 
 ## 1
 

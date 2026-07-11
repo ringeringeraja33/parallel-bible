@@ -1,4 +1,4 @@
-# Genesis 41
+# Genesis 41 / 创世记 41
 
 ## 1
 

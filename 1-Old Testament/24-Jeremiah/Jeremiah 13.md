@@ -1,4 +1,4 @@
-# Jeremiah 13
+# Jeremiah 13 / 耶利米书 13
 
 ## 1
 

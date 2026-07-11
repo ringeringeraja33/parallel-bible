@@ -1,4 +1,4 @@
-# Galatians 1
+# Galatians 1 / 加拉太书 1
 
 ## 1
 

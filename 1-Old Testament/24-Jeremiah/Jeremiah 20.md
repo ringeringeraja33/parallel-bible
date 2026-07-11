@@ -1,4 +1,4 @@
-# Jeremiah 20
+# Jeremiah 20 / 耶利米书 20
 
 ## 1
 

@@ -1,4 +1,4 @@
-# 2 Chronicles 35
+# 2 Chronicles 35 / 历代志下 35
 
 ## 1
 

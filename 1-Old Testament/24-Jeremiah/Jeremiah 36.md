@@ -1,4 +1,4 @@
-# Jeremiah 36
+# Jeremiah 36 / 耶利米书 36
 
 ## 1
 

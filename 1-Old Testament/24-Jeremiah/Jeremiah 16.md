@@ -1,4 +1,4 @@
-# Jeremiah 16
+# Jeremiah 16 / 耶利米书 16
 
 ## 1
 

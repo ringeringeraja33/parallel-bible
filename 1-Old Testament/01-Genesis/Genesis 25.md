@@ -1,4 +1,4 @@
-# Genesis 25
+# Genesis 25 / 创世记 25
 
 ## 1
 

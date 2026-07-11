@@ -1,4 +1,4 @@
-# Hebrews 5
+# Hebrews 5 / 希伯来书 5
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Leviticus 7
+# Leviticus 7 / 利未记 7
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Deuteronomy 22
+# Deuteronomy 22 / 申命记 22
 
 ## 1
 

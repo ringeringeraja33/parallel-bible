@@ -1,4 +1,4 @@
-# Genesis 38
+# Genesis 38 / 创世记 38
 
 ## 1
 

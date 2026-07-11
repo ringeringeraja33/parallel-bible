@@ -1,4 +1,4 @@
-# Ezekiel 39
+# Ezekiel 39 / 以西结书 39
 
 ## 1
 

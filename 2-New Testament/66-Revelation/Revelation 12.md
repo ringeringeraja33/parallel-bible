@@ -1,4 +1,4 @@
-# Revelation 12
+# Revelation 12 / 启示录 12
 
 ## 1
 

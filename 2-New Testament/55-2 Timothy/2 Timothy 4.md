@@ -1,4 +1,4 @@
-# 2 Timothy 4
+# 2 Timothy 4 / 提摩太后书 4
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Genesis 32
+# Genesis 32 / 创世记 32
 
 ## 1
 

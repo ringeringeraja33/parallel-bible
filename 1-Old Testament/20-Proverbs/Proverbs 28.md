@@ -1,4 +1,4 @@
-# Proverbs 28
+# Proverbs 28 / 箴言 28
 
 ## 1
 

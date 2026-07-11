@@ -1,4 +1,4 @@
-# Zechariah 14
+# Zechariah 14 / 撒迦利亚书 14
 
 ## 1
 

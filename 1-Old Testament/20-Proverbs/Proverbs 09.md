@@ -1,4 +1,4 @@
-# Proverbs 9
+# Proverbs 9 / 箴言 9
 
 ## 1
 

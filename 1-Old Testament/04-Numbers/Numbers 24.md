@@ -1,4 +1,4 @@
-# Numbers 24
+# Numbers 24 / 民数记 24
 
 ## 1
 

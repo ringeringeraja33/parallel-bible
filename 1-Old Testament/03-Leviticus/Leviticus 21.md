@@ -1,4 +1,4 @@
-# Leviticus 21
+# Leviticus 21 / 利未记 21
 
 ## 1
 

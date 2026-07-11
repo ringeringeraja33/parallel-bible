@@ -1,4 +1,4 @@
-# Deuteronomy 33
+# Deuteronomy 33 / 申命记 33
 
 ## 1
 

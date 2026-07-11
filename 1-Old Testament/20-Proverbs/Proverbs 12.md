@@ -1,4 +1,4 @@
-# Proverbs 12
+# Proverbs 12 / 箴言 12
 
 ## 1
 

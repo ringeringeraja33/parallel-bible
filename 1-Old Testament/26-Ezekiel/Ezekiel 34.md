@@ -1,4 +1,4 @@
-# Ezekiel 34
+# Ezekiel 34 / 以西结书 34
 
 ## 1
 

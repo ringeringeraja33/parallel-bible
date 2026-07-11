@@ -1,4 +1,4 @@
-# Revelation 15
+# Revelation 15 / 启示录 15
 
 ## 1
 

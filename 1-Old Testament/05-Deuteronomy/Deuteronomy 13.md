@@ -1,4 +1,4 @@
-# Deuteronomy 13
+# Deuteronomy 13 / 申命记 13
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Deuteronomy 11
+# Deuteronomy 11 / 申命记 11
 
 ## 1
 

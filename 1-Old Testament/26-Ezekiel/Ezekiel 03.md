@@ -1,4 +1,4 @@
-# Ezekiel 3
+# Ezekiel 3 / 以西结书 3
 
 ## 1
 

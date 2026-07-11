@@ -1,4 +1,4 @@
-# Numbers 10
+# Numbers 10 / 民数记 10
 
 ## 1
 

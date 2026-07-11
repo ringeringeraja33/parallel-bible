@@ -1,4 +1,4 @@
-# Genesis 47
+# Genesis 47 / 创世记 47
 
 ## 1
 

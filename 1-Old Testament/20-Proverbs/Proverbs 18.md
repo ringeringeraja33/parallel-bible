@@ -1,4 +1,4 @@
-# Proverbs 18
+# Proverbs 18 / 箴言 18
 
 ## 1
 

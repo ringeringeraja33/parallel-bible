@@ -1,4 +1,4 @@
-# Ezekiel 7
+# Ezekiel 7 / 以西结书 7
 
 ## 1
 

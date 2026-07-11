@@ -1,4 +1,4 @@
-# Deuteronomy 6
+# Deuteronomy 6 / 申命记 6
 
 ## 1
 

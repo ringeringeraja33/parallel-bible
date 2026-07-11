@@ -1,4 +1,4 @@
-# Judges 7
+# Judges 7 / 士师记 7
 
 ## 1
 

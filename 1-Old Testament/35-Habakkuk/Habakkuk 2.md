@@ -1,4 +1,4 @@
-# Habakkuk 2
+# Habakkuk 2 / 哈巴谷书 2
 
 ## 1
 

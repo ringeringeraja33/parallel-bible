@@ -1,4 +1,4 @@
-# Leviticus 4
+# Leviticus 4 / 利未记 4
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Genesis 40
+# Genesis 40 / 创世记 40
 
 ## 1
 

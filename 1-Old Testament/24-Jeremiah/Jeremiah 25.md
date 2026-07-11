@@ -1,4 +1,4 @@
-# Jeremiah 25
+# Jeremiah 25 / 耶利米书 25
 
 ## 1
 

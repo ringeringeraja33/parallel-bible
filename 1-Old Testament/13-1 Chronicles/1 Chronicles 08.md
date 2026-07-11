@@ -1,4 +1,4 @@
-# 1 Chronicles 8
+# 1 Chronicles 8 / 历代志上 8
 
 ## 1
 

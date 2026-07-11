@@ -1,4 +1,4 @@
-# Revelation 17
+# Revelation 17 / 启示录 17
 
 ## 1
 

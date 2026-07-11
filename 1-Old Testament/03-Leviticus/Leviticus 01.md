@@ -1,4 +1,4 @@
-# Leviticus 1
+# Leviticus 1 / 利未记 1
 
 ## 1
 

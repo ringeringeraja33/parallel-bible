@@ -1,4 +1,4 @@
-# 1 Corinthians 10
+# 1 Corinthians 10 / 哥林多前书 10
 
 ## 1
 

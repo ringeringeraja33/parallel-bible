@@ -1,4 +1,4 @@
-# Galatians 5
+# Galatians 5 / 加拉太书 5
 
 ## 1
 

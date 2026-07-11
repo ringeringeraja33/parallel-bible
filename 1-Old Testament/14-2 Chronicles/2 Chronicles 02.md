@@ -1,4 +1,4 @@
-# 2 Chronicles 2
+# 2 Chronicles 2 / 历代志下 2
 
 ## 1
 

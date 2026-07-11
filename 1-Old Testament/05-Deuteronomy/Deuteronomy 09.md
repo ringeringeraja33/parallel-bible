@@ -1,4 +1,4 @@
-# Deuteronomy 9
+# Deuteronomy 9 / 申命记 9
 
 ## 1
 

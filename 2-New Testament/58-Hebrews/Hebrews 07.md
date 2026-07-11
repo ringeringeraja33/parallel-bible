@@ -1,4 +1,4 @@
-# Hebrews 7
+# Hebrews 7 / 希伯来书 7
 
 ## 1
 

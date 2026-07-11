@@ -1,4 +1,4 @@
-# Revelation 13
+# Revelation 13 / 启示录 13
 
 ## 1
 

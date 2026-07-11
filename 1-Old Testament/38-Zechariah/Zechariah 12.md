@@ -1,4 +1,4 @@
-# Zechariah 12
+# Zechariah 12 / 撒迦利亚书 12
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Ezekiel 16
+# Ezekiel 16 / 以西结书 16
 
 ## 1
 

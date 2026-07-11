@@ -1,4 +1,4 @@
-# 2 Corinthians 7
+# 2 Corinthians 7 / 哥林多后书 7
 
 ## 1
 

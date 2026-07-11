@@ -1,4 +1,4 @@
-# Song of Songs 8
+# Song of Songs 8 / 雅歌 8
 
 ## 1
 

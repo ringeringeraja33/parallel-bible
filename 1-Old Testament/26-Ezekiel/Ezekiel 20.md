@@ -1,4 +1,4 @@
-# Ezekiel 20
+# Ezekiel 20 / 以西结书 20
 
 ## 1
 

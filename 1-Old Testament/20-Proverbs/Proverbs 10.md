@@ -1,4 +1,4 @@
-# Proverbs 10
+# Proverbs 10 / 箴言 10
 
 ## 1
 

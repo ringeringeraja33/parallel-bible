@@ -1,4 +1,4 @@
-# Proverbs 30
+# Proverbs 30 / 箴言 30
 
 ## 1
 

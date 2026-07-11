@@ -1,4 +1,4 @@
-# 2 Thessalonians 1
+# 2 Thessalonians 1 / 帖撒罗尼迦后书 1
 
 ## 1
 

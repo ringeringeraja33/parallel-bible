@@ -1,4 +1,4 @@
-# Revelation 21
+# Revelation 21 / 启示录 21
 
 ## 1
 

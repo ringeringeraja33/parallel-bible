@@ -1,4 +1,4 @@
-# Genesis 2
+# Genesis 2 / 创世记 2
 
 ## 1
 

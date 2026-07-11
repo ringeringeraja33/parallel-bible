@@ -1,4 +1,4 @@
-# Deuteronomy 32
+# Deuteronomy 32 / 申命记 32
 
 ## 1
 

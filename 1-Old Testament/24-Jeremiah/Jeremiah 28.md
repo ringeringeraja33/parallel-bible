@@ -1,4 +1,4 @@
-# Jeremiah 28
+# Jeremiah 28 / 耶利米书 28
 
 ## 1
 

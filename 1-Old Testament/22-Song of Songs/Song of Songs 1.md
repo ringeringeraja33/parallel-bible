@@ -1,4 +1,4 @@
-# Song of Songs 1
+# Song of Songs 1 / 雅歌 1
 
 ## 1
 

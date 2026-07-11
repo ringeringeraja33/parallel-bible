@@ -1,4 +1,4 @@
-# 2 Chronicles 6
+# 2 Chronicles 6 / 历代志下 6
 
 ## 1
 

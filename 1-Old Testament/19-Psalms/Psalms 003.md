@@ -1,4 +1,4 @@
-# Psalms 3
+# Psalms 3 / 诗篇 3
 
 ## 1
 

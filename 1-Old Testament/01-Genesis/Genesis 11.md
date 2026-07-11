@@ -1,4 +1,4 @@
-# Genesis 11
+# Genesis 11 / 创世记 11
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Psalms 6
+# Psalms 6 / 诗篇 6
 
 ## 1
 

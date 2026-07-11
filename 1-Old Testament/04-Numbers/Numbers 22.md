@@ -1,4 +1,4 @@
-# Numbers 22
+# Numbers 22 / 民数记 22
 
 ## 1
 

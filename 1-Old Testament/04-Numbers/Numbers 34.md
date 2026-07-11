@@ -1,4 +1,4 @@
-# Numbers 34
+# Numbers 34 / 民数记 34
 
 ## 1
 

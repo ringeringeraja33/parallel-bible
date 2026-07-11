@@ -1,4 +1,4 @@
-# Judges 2
+# Judges 2 / 士师记 2
 
 ## 1
 

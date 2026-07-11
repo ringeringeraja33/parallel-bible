@@ -1,4 +1,4 @@
-# Ezekiel 15
+# Ezekiel 15 / 以西结书 15
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Ecclesiastes 6
+# Ecclesiastes 6 / 传道书 6
 
 ## 1
 

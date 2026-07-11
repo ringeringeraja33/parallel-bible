@@ -1,4 +1,4 @@
-# 1 Timothy 5
+# 1 Timothy 5 / 提摩太前书 5
 
 ## 1
 

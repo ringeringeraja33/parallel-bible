@@ -1,4 +1,4 @@
-# Nehemiah 7
+# Nehemiah 7 / 尼希米记 7
 
 ## 1
 

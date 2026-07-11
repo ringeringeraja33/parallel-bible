@@ -1,4 +1,4 @@
-# Ephesians 6
+# Ephesians 6 / 以弗所书 6
 
 ## 1
 

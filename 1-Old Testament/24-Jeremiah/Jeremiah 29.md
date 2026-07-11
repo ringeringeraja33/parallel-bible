@@ -1,4 +1,4 @@
-# Jeremiah 29
+# Jeremiah 29 / 耶利米书 29
 
 ## 1
 

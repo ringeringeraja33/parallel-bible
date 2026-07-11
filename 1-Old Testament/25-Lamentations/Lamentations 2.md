@@ -1,4 +1,4 @@
-# Lamentations 2
+# Lamentations 2 / 耶利米哀歌 2
 
 ## 1
 

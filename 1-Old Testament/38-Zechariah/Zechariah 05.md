@@ -1,4 +1,4 @@
-# Zechariah 5
+# Zechariah 5 / 撒迦利亚书 5
 
 ## 1
 

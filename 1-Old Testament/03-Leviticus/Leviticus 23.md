@@ -1,4 +1,4 @@
-# Leviticus 23
+# Leviticus 23 / 利未记 23
 
 ## 1
 

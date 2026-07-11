@@ -1,4 +1,4 @@
-# Leviticus 16
+# Leviticus 16 / 利未记 16
 
 ## 1
 

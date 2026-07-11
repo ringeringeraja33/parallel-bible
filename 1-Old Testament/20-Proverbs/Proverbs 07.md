@@ -1,4 +1,4 @@
-# Proverbs 7
+# Proverbs 7 / 箴言 7
 
 ## 1
 

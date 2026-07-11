@@ -1,4 +1,4 @@
-# Jeremiah 37
+# Jeremiah 37 / 耶利米书 37
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Numbers 12
+# Numbers 12 / 民数记 12
 
 ## 1
 

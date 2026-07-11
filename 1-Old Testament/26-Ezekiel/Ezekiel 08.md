@@ -1,4 +1,4 @@
-# Ezekiel 8
+# Ezekiel 8 / 以西结书 8
 
 ## 1
 

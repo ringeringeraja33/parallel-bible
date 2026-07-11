@@ -1,4 +1,4 @@
-# Deuteronomy 25
+# Deuteronomy 25 / 申命记 25
 
 ## 1
 

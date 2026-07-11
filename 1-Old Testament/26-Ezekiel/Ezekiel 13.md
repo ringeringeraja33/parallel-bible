@@ -1,4 +1,4 @@
-# Ezekiel 13
+# Ezekiel 13 / 以西结书 13
 
 ## 1
 

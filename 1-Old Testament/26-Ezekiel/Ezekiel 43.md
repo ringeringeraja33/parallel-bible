@@ -1,4 +1,4 @@
-# Ezekiel 43
+# Ezekiel 43 / 以西结书 43
 
 ## 1
 

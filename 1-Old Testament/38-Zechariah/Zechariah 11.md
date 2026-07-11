@@ -1,4 +1,4 @@
-# Zechariah 11
+# Zechariah 11 / 撒迦利亚书 11
 
 ## 1
 

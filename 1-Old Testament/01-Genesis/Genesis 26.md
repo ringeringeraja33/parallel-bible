@@ -1,4 +1,4 @@
-# Genesis 26
+# Genesis 26 / 创世记 26
 
 ## 1
 

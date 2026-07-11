@@ -1,4 +1,4 @@
-# Leviticus 10
+# Leviticus 10 / 利未记 10
 
 ## 1
 

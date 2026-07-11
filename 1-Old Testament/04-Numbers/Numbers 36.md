@@ -1,4 +1,4 @@
-# Numbers 36
+# Numbers 36 / 民数记 36
 
 ## 1
 

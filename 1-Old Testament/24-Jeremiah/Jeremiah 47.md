@@ -1,4 +1,4 @@
-# Jeremiah 47
+# Jeremiah 47 / 耶利米书 47
 
 ## 1
 

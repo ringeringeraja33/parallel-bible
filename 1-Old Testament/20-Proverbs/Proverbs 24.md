@@ -1,4 +1,4 @@
-# Proverbs 24
+# Proverbs 24 / 箴言 24
 
 ## 1
 

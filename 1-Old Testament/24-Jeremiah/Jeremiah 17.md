@@ -1,4 +1,4 @@
-# Jeremiah 17
+# Jeremiah 17 / 耶利米书 17
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Genesis 46
+# Genesis 46 / 创世记 46
 
 ## 1
 

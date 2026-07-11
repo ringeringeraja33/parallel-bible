@@ -1,4 +1,4 @@
-# Revelation 4
+# Revelation 4 / 启示录 4
 
 ## 1
 

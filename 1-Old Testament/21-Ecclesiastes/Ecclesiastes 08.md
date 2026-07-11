@@ -1,4 +1,4 @@
-# Ecclesiastes 8
+# Ecclesiastes 8 / 传道书 8
 
 ## 1
 

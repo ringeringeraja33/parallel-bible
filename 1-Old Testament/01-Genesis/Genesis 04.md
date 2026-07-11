@@ -1,4 +1,4 @@
-# Genesis 4
+# Genesis 4 / 创世记 4
 
 ## 1
 

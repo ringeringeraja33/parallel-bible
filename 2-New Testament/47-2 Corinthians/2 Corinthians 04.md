@@ -1,4 +1,4 @@
-# 2 Corinthians 4
+# 2 Corinthians 4 / 哥林多后书 4
 
 ## 1
 

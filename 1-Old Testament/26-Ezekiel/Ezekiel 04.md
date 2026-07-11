@@ -1,4 +1,4 @@
-# Ezekiel 4
+# Ezekiel 4 / 以西结书 4
 
 ## 1
 

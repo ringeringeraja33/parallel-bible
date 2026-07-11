@@ -1,4 +1,4 @@
-# Ezekiel 6
+# Ezekiel 6 / 以西结书 6
 
 ## 1
 

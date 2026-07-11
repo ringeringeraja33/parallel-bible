@@ -1,4 +1,4 @@
-# 1 Corinthians 1
+# 1 Corinthians 1 / 哥林多前书 1
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Zephaniah 3
+# Zephaniah 3 / 西番雅书 3
 
 ## 1
 

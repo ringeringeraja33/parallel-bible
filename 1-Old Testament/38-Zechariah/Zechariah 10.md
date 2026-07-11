@@ -1,4 +1,4 @@
-# Zechariah 10
+# Zechariah 10 / 撒迦利亚书 10
 
 ## 1
 

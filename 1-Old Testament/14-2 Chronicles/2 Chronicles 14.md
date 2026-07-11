@@ -1,4 +1,4 @@
-# 2 Chronicles 14
+# 2 Chronicles 14 / 历代志下 14
 
 ## 1
 

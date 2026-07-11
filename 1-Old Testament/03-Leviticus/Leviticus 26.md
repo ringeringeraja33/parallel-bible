@@ -1,4 +1,4 @@
-# Leviticus 26
+# Leviticus 26 / 利未记 26
 
 ## 1
 

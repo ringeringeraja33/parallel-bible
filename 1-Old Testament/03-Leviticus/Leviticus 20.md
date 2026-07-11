@@ -1,4 +1,4 @@
-# Leviticus 20
+# Leviticus 20 / 利未记 20
 
 ## 1
 

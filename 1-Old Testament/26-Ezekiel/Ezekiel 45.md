@@ -1,4 +1,4 @@
-# Ezekiel 45
+# Ezekiel 45 / 以西结书 45
 
 ## 1
 

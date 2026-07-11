@@ -1,4 +1,4 @@
-# Jeremiah 15
+# Jeremiah 15 / 耶利米书 15
 
 ## 1
 

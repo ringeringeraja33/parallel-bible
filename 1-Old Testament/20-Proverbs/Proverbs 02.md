@@ -1,4 +1,4 @@
-# Proverbs 2
+# Proverbs 2 / 箴言 2
 
 ## 1
 

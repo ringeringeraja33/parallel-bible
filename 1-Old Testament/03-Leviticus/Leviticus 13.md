@@ -1,4 +1,4 @@
-# Leviticus 13
+# Leviticus 13 / 利未记 13
 
 ## 1
 

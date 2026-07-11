@@ -1,4 +1,4 @@
-# Jeremiah 43
+# Jeremiah 43 / 耶利米书 43
 
 ## 1
 

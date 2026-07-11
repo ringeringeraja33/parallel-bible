@@ -1,4 +1,4 @@
-# Numbers 23
+# Numbers 23 / 民数记 23
 
 ## 1
 

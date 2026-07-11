@@ -1,4 +1,4 @@
-# Habakkuk 1
+# Habakkuk 1 / 哈巴谷书 1
 
 ## 1
 

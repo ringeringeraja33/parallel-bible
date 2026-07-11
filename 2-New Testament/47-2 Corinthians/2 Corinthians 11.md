@@ -1,4 +1,4 @@
-# 2 Corinthians 11
+# 2 Corinthians 11 / 哥林多后书 11
 
 ## 1
 

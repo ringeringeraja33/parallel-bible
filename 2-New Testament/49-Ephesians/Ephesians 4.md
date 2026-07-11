@@ -1,4 +1,4 @@
-# Ephesians 4
+# Ephesians 4 / 以弗所书 4
 
 ## 1
 

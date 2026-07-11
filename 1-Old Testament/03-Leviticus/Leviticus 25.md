@@ -1,4 +1,4 @@
-# Leviticus 25
+# Leviticus 25 / 利未记 25
 
 ## 1
 

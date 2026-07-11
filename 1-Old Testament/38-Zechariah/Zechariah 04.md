@@ -1,4 +1,4 @@
-# Zechariah 4
+# Zechariah 4 / 撒迦利亚书 4
 
 ## 1
 

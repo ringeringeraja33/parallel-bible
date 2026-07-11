@@ -1,4 +1,4 @@
-# 1 Corinthians 15
+# 1 Corinthians 15 / 哥林多前书 15
 
 ## 1
 

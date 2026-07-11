@@ -1,4 +1,4 @@
-# Deuteronomy 29
+# Deuteronomy 29 / 申命记 29
 
 ## 1
 

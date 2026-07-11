@@ -1,4 +1,4 @@
-# Proverbs 22
+# Proverbs 22 / 箴言 22
 
 ## 1
 

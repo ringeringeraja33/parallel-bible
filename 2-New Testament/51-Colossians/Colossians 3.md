@@ -1,4 +1,4 @@
-# Colossians 3
+# Colossians 3 / 歌罗西书 3
 
 ## 1
 

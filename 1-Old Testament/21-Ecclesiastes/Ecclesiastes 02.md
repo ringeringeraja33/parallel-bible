@@ -1,4 +1,4 @@
-# Ecclesiastes 2
+# Ecclesiastes 2 / 传道书 2
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Hebrews 2
+# Hebrews 2 / 希伯来书 2
 
 ## 1
 

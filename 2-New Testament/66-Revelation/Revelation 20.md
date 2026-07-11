@@ -1,4 +1,4 @@
-# Revelation 20
+# Revelation 20 / 启示录 20
 
 ## 1
 

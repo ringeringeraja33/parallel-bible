@@ -1,4 +1,4 @@
-# Genesis 7
+# Genesis 7 / 创世记 7
 
 ## 1
 

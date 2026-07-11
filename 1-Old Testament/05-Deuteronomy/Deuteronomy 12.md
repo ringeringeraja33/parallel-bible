@@ -1,4 +1,4 @@
-# Deuteronomy 12
+# Deuteronomy 12 / 申命记 12
 
 ## 1
 

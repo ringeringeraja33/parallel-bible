@@ -1,4 +1,4 @@
-# Jeremiah 31
+# Jeremiah 31 / 耶利米书 31
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Ecclesiastes 11
+# Ecclesiastes 11 / 传道书 11
 
 ## 1
 

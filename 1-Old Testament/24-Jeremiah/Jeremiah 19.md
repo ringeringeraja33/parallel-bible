@@ -1,4 +1,4 @@
-# Jeremiah 19
+# Jeremiah 19 / 耶利米书 19
 
 ## 1
 

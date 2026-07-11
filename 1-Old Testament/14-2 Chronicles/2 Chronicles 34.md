@@ -1,4 +1,4 @@
-# 2 Chronicles 34
+# 2 Chronicles 34 / 历代志下 34
 
 ## 1
 

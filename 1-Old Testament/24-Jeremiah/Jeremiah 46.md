@@ -1,4 +1,4 @@
-# Jeremiah 46
+# Jeremiah 46 / 耶利米书 46
 
 ## 1
 

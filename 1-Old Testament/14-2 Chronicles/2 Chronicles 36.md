@@ -1,4 +1,4 @@
-# 2 Chronicles 36
+# 2 Chronicles 36 / 历代志下 36
 
 ## 1
 

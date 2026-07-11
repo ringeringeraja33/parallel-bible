@@ -1,4 +1,4 @@
-# Galatians 3
+# Galatians 3 / 加拉太书 3
 
 ## 1
 

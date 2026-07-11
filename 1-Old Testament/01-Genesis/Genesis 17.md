@@ -1,4 +1,4 @@
-# Genesis 17
+# Genesis 17 / 创世记 17
 
 ## 1
 

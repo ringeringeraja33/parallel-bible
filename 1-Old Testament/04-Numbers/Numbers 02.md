@@ -1,4 +1,4 @@
-# Numbers 2
+# Numbers 2 / 民数记 2
 
 ## 1
 

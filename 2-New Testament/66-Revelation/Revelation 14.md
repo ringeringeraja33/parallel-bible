@@ -1,4 +1,4 @@
-# Revelation 14
+# Revelation 14 / 启示录 14
 
 ## 1
 

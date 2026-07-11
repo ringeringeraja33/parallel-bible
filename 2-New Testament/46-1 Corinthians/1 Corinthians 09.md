@@ -1,4 +1,4 @@
-# 1 Corinthians 9
+# 1 Corinthians 9 / 哥林多前书 9
 
 ## 1
 

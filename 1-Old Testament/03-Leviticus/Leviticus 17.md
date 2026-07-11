@@ -1,4 +1,4 @@
-# Leviticus 17
+# Leviticus 17 / 利未记 17
 
 ## 1
 

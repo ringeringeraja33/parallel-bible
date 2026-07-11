@@ -1,4 +1,4 @@
-# Ezekiel 2
+# Ezekiel 2 / 以西结书 2
 
 ## 1
 

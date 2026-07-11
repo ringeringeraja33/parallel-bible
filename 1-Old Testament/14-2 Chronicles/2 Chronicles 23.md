@@ -1,4 +1,4 @@
-# 2 Chronicles 23
+# 2 Chronicles 23 / 历代志下 23
 
 ## 1
 

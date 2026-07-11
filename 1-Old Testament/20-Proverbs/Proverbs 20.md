@@ -1,4 +1,4 @@
-# Proverbs 20
+# Proverbs 20 / 箴言 20
 
 ## 1
 

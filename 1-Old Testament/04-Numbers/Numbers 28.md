@@ -1,4 +1,4 @@
-# Numbers 28
+# Numbers 28 / 民数记 28
 
 ## 1
 

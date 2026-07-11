@@ -1,4 +1,4 @@
-# Ezekiel 37
+# Ezekiel 37 / 以西结书 37
 
 ## 1
 

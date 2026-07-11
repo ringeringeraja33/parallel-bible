@@ -1,4 +1,4 @@
-# Proverbs 11
+# Proverbs 11 / 箴言 11
 
 ## 1
 

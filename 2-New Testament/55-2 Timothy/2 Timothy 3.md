@@ -1,4 +1,4 @@
-# 2 Timothy 3
+# 2 Timothy 3 / 提摩太后书 3
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Malachi 2
+# Malachi 2 / 玛拉基书 2
 
 ## 1
 

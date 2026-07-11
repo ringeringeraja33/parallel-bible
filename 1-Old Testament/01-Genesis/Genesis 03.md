@@ -1,4 +1,4 @@
-# Genesis 3
+# Genesis 3 / 创世记 3
 
 ## 1
 

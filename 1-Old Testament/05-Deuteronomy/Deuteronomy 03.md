@@ -1,4 +1,4 @@
-# Deuteronomy 3
+# Deuteronomy 3 / 申命记 3
 
 ## 1
 

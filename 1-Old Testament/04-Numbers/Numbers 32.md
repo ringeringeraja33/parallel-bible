@@ -1,4 +1,4 @@
-# Numbers 32
+# Numbers 32 / 民数记 32
 
 ## 1
 

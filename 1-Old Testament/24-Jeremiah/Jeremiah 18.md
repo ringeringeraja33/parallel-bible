@@ -1,4 +1,4 @@
-# Jeremiah 18
+# Jeremiah 18 / 耶利米书 18
 
 ## 1
 

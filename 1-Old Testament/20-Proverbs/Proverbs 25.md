@@ -1,4 +1,4 @@
-# Proverbs 25
+# Proverbs 25 / 箴言 25
 
 ## 1
 

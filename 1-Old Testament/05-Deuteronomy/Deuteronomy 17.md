@@ -1,4 +1,4 @@
-# Deuteronomy 17
+# Deuteronomy 17 / 申命记 17
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Jeremiah 48
+# Jeremiah 48 / 耶利米书 48
 
 ## 1
 

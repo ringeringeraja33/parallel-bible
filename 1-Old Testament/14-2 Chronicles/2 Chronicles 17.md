@@ -1,4 +1,4 @@
-# 2 Chronicles 17
+# 2 Chronicles 17 / 历代志下 17
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Song of Songs 4
+# Song of Songs 4 / 雅歌 4
 
 ## 1
 

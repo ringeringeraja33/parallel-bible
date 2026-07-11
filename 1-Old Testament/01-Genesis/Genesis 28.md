@@ -1,4 +1,4 @@
-# Genesis 28
+# Genesis 28 / 创世记 28
 
 ## 1
 

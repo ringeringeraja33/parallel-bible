@@ -1,4 +1,4 @@
-# 2 Corinthians 13
+# 2 Corinthians 13 / 哥林多后书 13
 
 ## 1
 

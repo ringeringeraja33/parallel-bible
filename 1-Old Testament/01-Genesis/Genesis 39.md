@@ -1,4 +1,4 @@
-# Genesis 39
+# Genesis 39 / 创世记 39
 
 ## 1
 

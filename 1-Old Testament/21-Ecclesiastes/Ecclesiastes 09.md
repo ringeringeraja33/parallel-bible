@@ -1,4 +1,4 @@
-# Ecclesiastes 9
+# Ecclesiastes 9 / 传道书 9
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Ezekiel 19
+# Ezekiel 19 / 以西结书 19
 
 ## 1
 

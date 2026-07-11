@@ -1,4 +1,4 @@
-# Jeremiah 52
+# Jeremiah 52 / 耶利米书 52
 
 ## 1
 

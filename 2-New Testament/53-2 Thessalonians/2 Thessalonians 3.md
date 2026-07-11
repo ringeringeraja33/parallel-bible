@@ -1,4 +1,4 @@
-# 2 Thessalonians 3
+# 2 Thessalonians 3 / 帖撒罗尼迦后书 3
 
 ## 1
 

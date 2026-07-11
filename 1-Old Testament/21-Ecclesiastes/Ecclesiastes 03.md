@@ -1,4 +1,4 @@
-# Ecclesiastes 3
+# Ecclesiastes 3 / 传道书 3
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Jeremiah 7
+# Jeremiah 7 / 耶利米书 7
 
 ## 1
 

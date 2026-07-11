@@ -1,4 +1,4 @@
-# Nehemiah 2
+# Nehemiah 2 / 尼希米记 2
 
 ## 1
 

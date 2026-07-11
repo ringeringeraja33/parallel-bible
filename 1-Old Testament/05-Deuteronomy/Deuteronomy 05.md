@@ -1,4 +1,4 @@
-# Deuteronomy 5
+# Deuteronomy 5 / 申命记 5
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Hebrews 12
+# Hebrews 12 / 希伯来书 12
 
 ## 1
 

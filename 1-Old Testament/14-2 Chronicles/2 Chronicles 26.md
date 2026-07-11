@@ -1,4 +1,4 @@
-# 2 Chronicles 26
+# 2 Chronicles 26 / 历代志下 26
 
 ## 1
 

@@ -1,11 +1,11 @@
-# 1 Samuel 31
+# 1 Samuel 31 / 撒母耳记上 31
 
 ## 1
 
-| Language | Content |
-| --- | --- |
-| English | Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa. |
-| 中文 | 非利士人与以色列人争战。以色列人在非利士人面前逃跑，在基利波有被杀仆倒的。 |
+| Language | Content                                                                                                                                 |
+| -------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| English  | Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa. |
+| 中文       | 非利士人与以色列人争战。以色列人在非利士人面前逃跑，在基利波有被杀仆倒的。                                                                                                   |
 
 ## 2
 

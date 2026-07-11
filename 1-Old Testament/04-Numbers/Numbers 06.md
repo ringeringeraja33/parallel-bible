@@ -1,4 +1,4 @@
-# Numbers 6
+# Numbers 6 / 民数记 6
 
 ## 1
 

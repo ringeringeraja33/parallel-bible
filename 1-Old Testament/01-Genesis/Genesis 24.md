@@ -1,4 +1,4 @@
-# Genesis 24
+# Genesis 24 / 创世记 24
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Ezekiel 48
+# Ezekiel 48 / 以西结书 48
 
 ## 1
 

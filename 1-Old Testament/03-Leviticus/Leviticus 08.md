@@ -1,4 +1,4 @@
-# Leviticus 8
+# Leviticus 8 / 利未记 8
 
 ## 1
 

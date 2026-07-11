@@ -1,4 +1,4 @@
-# 2 Corinthians 1
+# 2 Corinthians 1 / 哥林多后书 1
 
 ## 1
 

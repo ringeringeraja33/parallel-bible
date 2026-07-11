@@ -1,4 +1,4 @@
-# Genesis 48
+# Genesis 48 / 创世记 48
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Psalms 7
+# Psalms 7 / 诗篇 7
 
 ## 1
 

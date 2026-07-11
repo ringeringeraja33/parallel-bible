@@ -1,4 +1,4 @@
-# Revelation 2
+# Revelation 2 / 启示录 2
 
 ## 1
 

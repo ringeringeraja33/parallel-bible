@@ -1,4 +1,4 @@
-# Habakkuk 3
+# Habakkuk 3 / 哈巴谷书 3
 
 ## 1
 

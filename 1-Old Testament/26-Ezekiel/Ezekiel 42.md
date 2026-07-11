@@ -1,4 +1,4 @@
-# Ezekiel 42
+# Ezekiel 42 / 以西结书 42
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Jeremiah 24
+# Jeremiah 24 / 耶利米书 24
 
 ## 1
 

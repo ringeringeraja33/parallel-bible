@@ -1,4 +1,4 @@
-# Jeremiah 32
+# Jeremiah 32 / 耶利米书 32
 
 ## 1
 

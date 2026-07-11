@@ -1,4 +1,4 @@
-# Ecclesiastes 7
+# Ecclesiastes 7 / 传道书 7
 
 ## 1
 

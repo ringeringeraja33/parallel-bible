@@ -1,4 +1,4 @@
-# Zechariah 7
+# Zechariah 7 / 撒迦利亚书 7
 
 ## 1
 

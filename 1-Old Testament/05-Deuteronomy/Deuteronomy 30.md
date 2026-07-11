@@ -1,4 +1,4 @@
-# Deuteronomy 30
+# Deuteronomy 30 / 申命记 30
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Jeremiah 5
+# Jeremiah 5 / 耶利米书 5
 
 ## 1
 

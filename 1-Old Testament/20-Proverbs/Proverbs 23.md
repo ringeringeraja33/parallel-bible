@@ -1,4 +1,4 @@
-# Proverbs 23
+# Proverbs 23 / 箴言 23
 
 ## 1
 

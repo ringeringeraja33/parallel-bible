@@ -1,4 +1,4 @@
-# Ezekiel 11
+# Ezekiel 11 / 以西结书 11
 
 ## 1
 

@@ -1,4 +1,4 @@
-# 1 Corinthians 12
+# 1 Corinthians 12 / 哥林多前书 12
 
 ## 1
 

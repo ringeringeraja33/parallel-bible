@@ -1,4 +1,4 @@
-# 2 Chronicles 32
+# 2 Chronicles 32 / 历代志下 32
 
 ## 1
 

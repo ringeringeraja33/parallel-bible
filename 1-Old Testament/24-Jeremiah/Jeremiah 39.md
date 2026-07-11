@@ -1,4 +1,4 @@
-# Jeremiah 39
+# Jeremiah 39 / 耶利米书 39
 
 ## 1
 

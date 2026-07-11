@@ -1,4 +1,4 @@
-# Proverbs 29
+# Proverbs 29 / 箴言 29
 
 ## 1
 

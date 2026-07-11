@@ -1,4 +1,4 @@
-# Revelation 19
+# Revelation 19 / 启示录 19
 
 ## 1
 

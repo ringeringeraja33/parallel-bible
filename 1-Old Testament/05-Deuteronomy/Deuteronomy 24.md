@@ -1,4 +1,4 @@
-# Deuteronomy 24
+# Deuteronomy 24 / 申命记 24
 
 ## 1
 

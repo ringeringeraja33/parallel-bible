@@ -1,4 +1,4 @@
-# Revelation 11
+# Revelation 11 / 启示录 11
 
 ## 1
 

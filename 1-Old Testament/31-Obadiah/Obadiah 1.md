@@ -1,4 +1,4 @@
-# Obadiah 1
+# Obadiah 1 / 俄巴底亚书 1
 
 ## 1
 

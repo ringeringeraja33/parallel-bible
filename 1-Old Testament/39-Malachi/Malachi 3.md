@@ -1,4 +1,4 @@
-# Malachi 3
+# Malachi 3 / 玛拉基书 3
 
 ## 1
 

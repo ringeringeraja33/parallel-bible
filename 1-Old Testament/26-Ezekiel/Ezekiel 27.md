@@ -1,4 +1,4 @@
-# Ezekiel 27
+# Ezekiel 27 / 以西结书 27
 
 ## 1
 

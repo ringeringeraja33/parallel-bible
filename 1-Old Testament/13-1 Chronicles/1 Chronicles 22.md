@@ -1,4 +1,4 @@
-# 1 Chronicles 22
+# 1 Chronicles 22 / 历代志上 22
 
 ## 1
 

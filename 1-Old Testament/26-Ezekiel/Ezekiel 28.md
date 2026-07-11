@@ -1,4 +1,4 @@
-# Ezekiel 28
+# Ezekiel 28 / 以西结书 28
 
 ## 1
 

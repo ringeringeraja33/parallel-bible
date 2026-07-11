@@ -1,4 +1,4 @@
-# Philippians 2
+# Philippians 2 / 腓立比书 2
 
 ## 1
 

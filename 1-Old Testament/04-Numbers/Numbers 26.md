@@ -1,4 +1,4 @@
-# Numbers 26
+# Numbers 26 / 民数记 26
 
 ## 1
 

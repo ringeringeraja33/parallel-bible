@@ -1,4 +1,4 @@
-# Ezekiel 17
+# Ezekiel 17 / 以西结书 17
 
 ## 1
 

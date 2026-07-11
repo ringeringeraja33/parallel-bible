@@ -1,4 +1,4 @@
-# Genesis 22
+# Genesis 22 / 创世记 22
 
 ## 1
 

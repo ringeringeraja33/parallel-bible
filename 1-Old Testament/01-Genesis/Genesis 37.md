@@ -1,4 +1,4 @@
-# Genesis 37
+# Genesis 37 / 创世记 37
 
 ## 1
 

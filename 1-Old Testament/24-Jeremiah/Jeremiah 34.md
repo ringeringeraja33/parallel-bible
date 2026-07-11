@@ -1,4 +1,4 @@
-# Jeremiah 34
+# Jeremiah 34 / 耶利米书 34
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Genesis 21
+# Genesis 21 / 创世记 21
 
 ## 1
 

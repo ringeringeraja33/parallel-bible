@@ -1,4 +1,4 @@
-# Revelation 9
+# Revelation 9 / 启示录 9
 
 ## 1
 

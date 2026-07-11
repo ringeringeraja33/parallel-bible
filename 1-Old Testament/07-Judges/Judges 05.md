@@ -1,4 +1,4 @@
-# Judges 5
+# Judges 5 / 士师记 5
 
 ## 1
 

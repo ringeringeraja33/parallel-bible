@@ -1,4 +1,4 @@
-# Ezekiel 14
+# Ezekiel 14 / 以西结书 14
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Deuteronomy 10
+# Deuteronomy 10 / 申命记 10
 
 ## 1
 

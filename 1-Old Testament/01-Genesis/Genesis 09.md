@@ -1,4 +1,4 @@
-# Genesis 9
+# Genesis 9 / 创世记 9
 
 ## 1
 

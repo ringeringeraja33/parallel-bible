@@ -1,4 +1,4 @@
-# Leviticus 6
+# Leviticus 6 / 利未记 6
 
 ## 1
 

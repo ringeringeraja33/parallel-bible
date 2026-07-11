@@ -1,4 +1,4 @@
-# 1 Thessalonians 5
+# 1 Thessalonians 5 / 帖撒罗尼迦前书 5
 
 ## 1
 

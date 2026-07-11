@@ -1,4 +1,4 @@
-# Hebrews 8
+# Hebrews 8 / 希伯来书 8
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Proverbs 17
+# Proverbs 17 / 箴言 17
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Deuteronomy 14
+# Deuteronomy 14 / 申命记 14
 
 ## 1
 

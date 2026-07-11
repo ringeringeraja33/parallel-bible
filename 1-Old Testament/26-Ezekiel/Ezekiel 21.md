@@ -1,4 +1,4 @@
-# Ezekiel 21
+# Ezekiel 21 / 以西结书 21
 
 ## 1
 

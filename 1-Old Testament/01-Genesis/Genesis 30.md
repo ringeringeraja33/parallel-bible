@@ -1,4 +1,4 @@
-# Genesis 30
+# Genesis 30 / 创世记 30
 
 ## 1
 

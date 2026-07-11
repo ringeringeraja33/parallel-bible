@@ -1,4 +1,4 @@
-# Jeremiah 51
+# Jeremiah 51 / 耶利米书 51
 
 ## 1
 

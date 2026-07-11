@@ -1,4 +1,4 @@
-# Revelation 3
+# Revelation 3 / 启示录 3
 
 ## 1
 

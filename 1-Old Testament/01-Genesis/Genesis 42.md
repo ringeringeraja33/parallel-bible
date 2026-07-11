@@ -1,4 +1,4 @@
-# Genesis 42
+# Genesis 42 / 创世记 42
 
 ## 1
 

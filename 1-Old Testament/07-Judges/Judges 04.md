@@ -1,4 +1,4 @@
-# Judges 4
+# Judges 4 / 士师记 4
 
 ## 1
 

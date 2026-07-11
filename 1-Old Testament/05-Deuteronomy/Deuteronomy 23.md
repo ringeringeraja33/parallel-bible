@@ -1,4 +1,4 @@
-# Deuteronomy 23
+# Deuteronomy 23 / 申命记 23
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Jeremiah 3
+# Jeremiah 3 / 耶利米书 3
 
 ## 1
 

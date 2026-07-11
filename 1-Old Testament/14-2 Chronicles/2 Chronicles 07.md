@@ -1,4 +1,4 @@
-# 2 Chronicles 7
+# 2 Chronicles 7 / 历代志下 7
 
 ## 1
 

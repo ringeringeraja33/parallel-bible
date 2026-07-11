@@ -1,4 +1,4 @@
-# Judges 8
+# Judges 8 / 士师记 8
 
 ## 1
 

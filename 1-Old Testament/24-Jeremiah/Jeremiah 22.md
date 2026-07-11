@@ -1,4 +1,4 @@
-# Jeremiah 22
+# Jeremiah 22 / 耶利米书 22
 
 ## 1
 

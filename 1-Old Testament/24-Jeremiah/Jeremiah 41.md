@@ -1,4 +1,4 @@
-# Jeremiah 41
+# Jeremiah 41 / 耶利米书 41
 
 ## 1
 

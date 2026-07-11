@@ -1,4 +1,4 @@
-# Ezekiel 38
+# Ezekiel 38 / 以西结书 38
 
 ## 1
 

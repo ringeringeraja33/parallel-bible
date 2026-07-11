@@ -1,4 +1,4 @@
-# 2 Chronicles 27
+# 2 Chronicles 27 / 历代志下 27
 
 ## 1
 

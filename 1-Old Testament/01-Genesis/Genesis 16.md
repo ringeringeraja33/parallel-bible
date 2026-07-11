@@ -1,4 +1,4 @@
-# Genesis 16
+# Genesis 16 / 创世记 16
 
 ## 1
 

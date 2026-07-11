@@ -1,4 +1,4 @@
-# Ezekiel 47
+# Ezekiel 47 / 以西结书 47
 
 ## 1
 

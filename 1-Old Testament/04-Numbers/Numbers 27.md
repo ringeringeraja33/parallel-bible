@@ -1,4 +1,4 @@
-# Numbers 27
+# Numbers 27 / 民数记 27
 
 ## 1
 

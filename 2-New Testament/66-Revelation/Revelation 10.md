@@ -1,4 +1,4 @@
-# Revelation 10
+# Revelation 10 / 启示录 10
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Jeremiah 45
+# Jeremiah 45 / 耶利米书 45
 
 ## 1
 

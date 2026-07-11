@@ -1,4 +1,4 @@
-# 2 Corinthians 3
+# 2 Corinthians 3 / 哥林多后书 3
 
 ## 1
 

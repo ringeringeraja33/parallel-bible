@@ -1,4 +1,4 @@
-# Genesis 33
+# Genesis 33 / 创世记 33
 
 ## 1
 

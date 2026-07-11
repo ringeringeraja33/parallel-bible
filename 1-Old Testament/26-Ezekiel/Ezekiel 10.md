@@ -1,4 +1,4 @@
-# Ezekiel 10
+# Ezekiel 10 / 以西结书 10
 
 ## 1
 

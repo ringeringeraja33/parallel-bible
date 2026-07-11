@@ -1,4 +1,4 @@
-# Ecclesiastes 12
+# Ecclesiastes 12 / 传道书 12
 
 ## 1
 

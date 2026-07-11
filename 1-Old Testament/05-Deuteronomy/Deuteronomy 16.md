@@ -1,4 +1,4 @@
-# Deuteronomy 16
+# Deuteronomy 16 / 申命记 16
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Genesis 49
+# Genesis 49 / 创世记 49
 
 ## 1
 

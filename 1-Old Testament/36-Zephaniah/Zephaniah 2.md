@@ -1,4 +1,4 @@
-# Zephaniah 2
+# Zephaniah 2 / 西番雅书 2
 
 ## 1
 

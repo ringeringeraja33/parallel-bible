@@ -1,4 +1,4 @@
-# Leviticus 19
+# Leviticus 19 / 利未记 19
 
 ## 1
 

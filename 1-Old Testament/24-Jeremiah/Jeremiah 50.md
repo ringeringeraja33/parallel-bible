@@ -1,4 +1,4 @@
-# Jeremiah 50
+# Jeremiah 50 / 耶利米书 50
 
 ## 1
 

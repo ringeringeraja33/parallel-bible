@@ -1,4 +1,4 @@
-# Leviticus 22
+# Leviticus 22 / 利未记 22
 
 ## 1
 

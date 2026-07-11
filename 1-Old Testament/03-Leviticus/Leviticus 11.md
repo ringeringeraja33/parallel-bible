@@ -1,4 +1,4 @@
-# Leviticus 11
+# Leviticus 11 / 利未记 11
 
 ## 1
 

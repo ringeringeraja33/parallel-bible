@@ -1,4 +1,4 @@
-# Ephesians 2
+# Ephesians 2 / 以弗所书 2
 
 ## 1
 

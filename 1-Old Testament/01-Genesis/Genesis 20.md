@@ -1,4 +1,4 @@
-# Genesis 20
+# Genesis 20 / 创世记 20
 
 ## 1
 

@@ -1,4 +1,4 @@
-# 2 Chronicles 9
+# 2 Chronicles 9 / 历代志下 9
 
 ## 1
 

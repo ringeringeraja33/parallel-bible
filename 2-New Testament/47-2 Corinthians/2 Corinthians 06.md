@@ -1,4 +1,4 @@
-# 2 Corinthians 6
+# 2 Corinthians 6 / 哥林多后书 6
 
 ## 1
 

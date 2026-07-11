@@ -1,4 +1,4 @@
-# Hebrews 13
+# Hebrews 13 / 希伯来书 13
 
 ## 1
 

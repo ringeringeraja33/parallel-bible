@@ -1,4 +1,4 @@
-# Jeremiah 10
+# Jeremiah 10 / 耶利米书 10
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Hebrews 3
+# Hebrews 3 / 希伯来书 3
 
 ## 1
 

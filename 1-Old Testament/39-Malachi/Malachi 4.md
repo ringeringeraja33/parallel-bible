@@ -1,4 +1,4 @@
-# Malachi 4
+# Malachi 4 / 玛拉基书 4
 
 ## 1
 

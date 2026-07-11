@@ -1,4 +1,4 @@
-# Deuteronomy 18
+# Deuteronomy 18 / 申命记 18
 
 ## 1
 

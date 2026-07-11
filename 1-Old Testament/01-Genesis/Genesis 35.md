@@ -1,4 +1,4 @@
-# Genesis 35
+# Genesis 35 / 创世记 35
 
 ## 1
 

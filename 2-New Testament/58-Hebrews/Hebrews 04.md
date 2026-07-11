@@ -1,4 +1,4 @@
-# Hebrews 4
+# Hebrews 4 / 希伯来书 4
 
 ## 1
 

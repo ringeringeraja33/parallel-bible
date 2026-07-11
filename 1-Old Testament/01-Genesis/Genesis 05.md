@@ -1,4 +1,4 @@
-# Genesis 5
+# Genesis 5 / 创世记 5
 
 ## 1
 

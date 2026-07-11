@@ -1,4 +1,4 @@
-# Psalms 4
+# Psalms 4 / 诗篇 4
 
 ## 1
 

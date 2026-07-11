@@ -1,4 +1,4 @@
-# 2 Chronicles 24
+# 2 Chronicles 24 / 历代志下 24
 
 ## 1
 

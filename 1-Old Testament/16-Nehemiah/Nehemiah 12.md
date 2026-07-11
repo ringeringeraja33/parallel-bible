@@ -1,4 +1,4 @@
-# Nehemiah 12
+# Nehemiah 12 / 尼希米记 12
 
 ## 1
 

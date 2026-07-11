@@ -1,4 +1,4 @@
-# Genesis 31
+# Genesis 31 / 创世记 31
 
 ## 1
 

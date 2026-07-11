@@ -1,4 +1,4 @@
-# Jeremiah 1
+# Jeremiah 1 / 耶利米书 1
 
 ## 1
 

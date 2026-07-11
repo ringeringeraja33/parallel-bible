@@ -1,4 +1,4 @@
-# Genesis 18
+# Genesis 18 / 创世记 18
 
 ## 1
 

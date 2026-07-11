@@ -1,4 +1,4 @@
-# Genesis 14
+# Genesis 14 / 创世记 14
 
 ## 1
 

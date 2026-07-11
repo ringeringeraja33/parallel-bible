@@ -1,4 +1,4 @@
-# Hebrews 9
+# Hebrews 9 / 希伯来书 9
 
 ## 1
 

@@ -1,4 +1,4 @@
-# Leviticus 15
+# Leviticus 15 / 利未记 15
 
 ## 1
 

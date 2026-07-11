@@ -1,4 +1,4 @@
-# Colossians 4
+# Colossians 4 / 歌罗西书 4
 
 ## 1
 

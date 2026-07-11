@@ -1,4 +1,4 @@
-# Proverbs 21
+# Proverbs 21 / 箴言 21
 
 ## 1
 

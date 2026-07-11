@@ -1,4 +1,4 @@
-# Genesis 27
+# Genesis 27 / 创世记 27
 
 ## 1
 

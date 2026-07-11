@@ -1,4 +1,4 @@
-# 1 Chronicles 19
+# 1 Chronicles 19 / 历代志上 19
 
 ## 1
 

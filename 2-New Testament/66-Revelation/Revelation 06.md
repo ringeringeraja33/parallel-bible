@@ -1,4 +1,4 @@
-# Revelation 6
+# Revelation 6 / 启示录 6
 
 ## 1
 

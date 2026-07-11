@@ -1,4 +1,4 @@
-# Deuteronomy 15
+# Deuteronomy 15 / 申命记 15
 
 ## 1
 

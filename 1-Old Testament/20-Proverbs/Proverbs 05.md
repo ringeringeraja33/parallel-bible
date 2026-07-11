@@ -1,4 +1,4 @@
-# Proverbs 5
+# Proverbs 5 / 箴言 5
 
 ## 1
 

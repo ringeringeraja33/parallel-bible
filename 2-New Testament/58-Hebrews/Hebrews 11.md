@@ -1,4 +1,4 @@
-# Hebrews 11
+# Hebrews 11 / 希伯来书 11
 
 ## 1
 

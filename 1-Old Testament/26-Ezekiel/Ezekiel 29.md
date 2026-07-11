@@ -1,4 +1,4 @@
-# Ezekiel 29
+# Ezekiel 29 / 以西结书 29
 
 ## 1
 

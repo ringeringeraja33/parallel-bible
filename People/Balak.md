@@ -1,0 +1,13 @@
+# Balak
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Deutsch：Balak；Italiano：Balac；English：Balak；中文：巴勒。
+
+## Balak@Num.22.2-Rev=H1111
+
+类别：PERSON(s)。来源描述：King living at the time of Egypt and Wilderness
+
+经文索引：[[1-Old Testament/04-Numbers/Numbers 22#2|Numbers 22:2]]、[[1-Old Testament/04-Numbers/Numbers 22#4|Numbers 22:4]]、[[1-Old Testament/04-Numbers/Numbers 22#7|Numbers 22:7]]、[[1-Old Testament/04-Numbers/Numbers 22#10|Numbers 22:10]]、[[1-Old Testament/04-Numbers/Numbers 22#13|Numbers 22:13]]、[[1-Old Testament/04-Numbers/Numbers 22#14|Numbers 22:14]]、[[1-Old Testament/04-Numbers/Numbers 22#15|Numbers 22:15]]、[[1-Old Testament/04-Numbers/Numbers 22#16|Numbers 22:16]]、[[1-Old Testament/04-Numbers/Numbers 22#18|Numbers 22:18]]、[[1-Old Testament/04-Numbers/Numbers 22#35|Numbers 22:35]]、[[1-Old Testament/04-Numbers/Numbers 22#36|Numbers 22:36]]、[[1-Old Testament/04-Numbers/Numbers 22#37|Numbers 22:37]]、[[1-Old Testament/04-Numbers/Numbers 22#38|Numbers 22:38]]、[[1-Old Testament/04-Numbers/Numbers 22#39|Numbers 22:39]]、[[1-Old Testament/04-Numbers/Numbers 22#40|Numbers 22:40]]、[[1-Old Testament/04-Numbers/Numbers 22#41|Numbers 22:41]]、[[1-Old Testament/04-Numbers/Numbers 23#1|Numbers 23:1]]、[[1-Old Testament/04-Numbers/Numbers 23#2|Numbers 23:2]]、[[1-Old Testament/04-Numbers/Numbers 23#3|Numbers 23:3]]、[[1-Old Testament/04-Numbers/Numbers 23#5|Numbers 23:5]]、[[1-Old Testament/04-Numbers/Numbers 23#7|Numbers 23:7]]、[[1-Old Testament/04-Numbers/Numbers 23#11|Numbers 23:11]]、[[1-Old Testament/04-Numbers/Numbers 23#13|Numbers 23:13]]、[[1-Old Testament/04-Numbers/Numbers 23#15|Numbers 23:15]]、[[1-Old Testament/04-Numbers/Numbers 23#16|Numbers 23:16]]、[[1-Old Testament/04-Numbers/Numbers 23#17|Numbers 23:17]]、[[1-Old Testament/04-Numbers/Numbers 23#18|Numbers 23:18]]、[[1-Old Testament/04-Numbers/Numbers 23#25|Numbers 23:25]]、[[1-Old Testament/04-Numbers/Numbers 23#26|Numbers 23:26]]、[[1-Old Testament/04-Numbers/Numbers 23#27|Numbers 23:27]]、[[1-Old Testament/04-Numbers/Numbers 23#28|Numbers 23:28]]、[[1-Old Testament/04-Numbers/Numbers 23#29|Numbers 23:29]]、[[1-Old Testament/04-Numbers/Numbers 23#30|Numbers 23:30]]、[[1-Old Testament/04-Numbers/Numbers 24#10|Numbers 24:10]]、[[1-Old Testament/04-Numbers/Numbers 24#12|Numbers 24:12]]、[[1-Old Testament/04-Numbers/Numbers 24#13|Numbers 24:13]]、[[1-Old Testament/04-Numbers/Numbers 24#25|Numbers 24:25]]、[[1-Old Testament/06-Joshua/Joshua 24#9|Joshua 24:9]]、[[1-Old Testament/07-Judges/Judges 11#25|Judges 11:25]]、[[1-Old Testament/33-Micah/Micah 6#5|Micah 6:5]]、[[2-New Testament/66-Revelation/Revelation 02#14|Revelation 2:14]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

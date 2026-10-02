@@ -1,74 +1,38 @@
 # parallel-bible
 
-Public-domain Bible translations as Markdown, **one file per chapter**, with every verse laid out as a small table so multiple languages line up side by side. Aligned across languages by a shared *Testament › Book › Chapter › Verse* coordinate.
+六语圣经对读笔记：English、中文、Français、Deutsch、Italiano、Latina。主体采用新教 66 卷范围及 **KJV 的 1,189 章、31,102 节坐标**，一章一个 Markdown 文件。其他传统的增补段落单列，范围不同不等于漏卷。
 
-> 公共领域的圣经译本，以 Markdown 存储，**一章一个文件**。每一节都是一个小表格，多语言内容并列对照，按照「约 › 书 › 章 › 节」的统一结构对齐。
+Six-language parallel Bible in Markdown, with one file per chapter. The main text uses the 66-book Protestant canon and KJV coordinates. Different verse boundaries are documented; a shared number does not by itself establish textual equivalence.
 
-## Languages included / 已收录语言
-
-| Code | Translation | 译本 |
-| --- | --- | --- |
-| English | King James Version (KJV, 1769) | 詹姆士王译本 |
-| 中文 | Chinese Union Version, New Punctuation (和合本) | 新标点和合本 |
-
-More languages will be added over time — each new language is simply a new row added to every verse table.
-
-> 后续会陆续加入更多语言：每种新语言只是在每个节的表格里新增一行。
-
-## Structure / 目录结构
-
-```
-1-Old Testament/
-  01-Genesis/
-    Genesis 01.md
-    Genesis 02.md
-    ...
-2-New Testament/
-  43-John/
-    John 03.md
-    ...
-```
-
-- **Testament** and **book** folders are numbered to preserve canonical order.
-- Book and file names are in English so the same verse sits at the same path regardless of language.
-- Each file is one chapter; chapter numbers are zero-padded so they sort correctly.
-
-> 「约」和「书」的文件夹带有序号以保持圣经原有顺序；文件夹与文件名统一使用英文，使同一节经文在任何语言下都位于相同路径；每个文件对应一章，章号补零以保证排序正确。
-
-## Verse format / 单节格式
-
-Each verse is a heading followed by a two-column table — column 1 is the language, column 2 is the text:
-
-```markdown
-## 1
-
-| Language | Content |
+| 显示标签 | 所据文本 |
 | --- | --- |
-| English | In the beginning God created the heaven and the earth. |
-| 中文 | 起初神创造天地。 |
+| English | CrossWire KJV，经 scrollmapper 数字导出；含该见证的拼写、诗篇篇题及附记 |
+| 中文 | CrossWire ChiUn 和合本繁体数字导出，使用 OpenCC t2s 转为简体并去除分词空格；不是另一个出版社的“新标点版” |
+| Français | Louis Segond 1910，midvash `lsg` 数据快照 |
+| Deutsch | Lutherbibel 1912，midvash `luth1912` 数据快照；方括号内原分节编号保留 |
+| Italiano | midvash 标称 Diodati 1649 的 `diodati` 数据快照 |
+| Latina | midvash `vulg` 数据快照；另从 CrossWire Vulgate 导出补入 Ruth 4:22、Amos 9:15 |
+
+译本名称是数字提供者的标识。本项目没有声称已逐页比对各历史印本，也没有把不同拉丁译本拼成一个“无异文”版本。准确来源、下载文件摘要及处理规则见 [SOURCES.md](SOURCES.md)；检查结果见 [校勘说明](Audit/校勘说明.md)。
+
+## 阅读方式
+
+每节依次列出六种语言。各译本原文保持自身用词；人物链接显示原语言拼写，如 `[[People/Moses|摩西]]`。三个词条目录分别为 [人物](People/README.md)、[地名](Places/README.md)及[其他专名](Names/README.md)。同名者在词条内按 STEPBible 身份标识分列，不能仅凭同名认定同一人。
+
+- `〔原编号 …〕`：本行原文的来源坐标不同于主标题的 KJV 坐标。
+- `〔合读对应 …〕`、`〔合读见 …〕`：一句或一段跨越两种分节方式，完整原文保留一次，其余位置给出链接；不凭猜测拆句。
+- `〔所据数字底本此处无独立文本…〕`：来源确无可用独立文本，须参照校勘说明；不等同于“原圣经漏译”。
+- 拉丁语独立篇题放在章首；底本所含《但以理书》增补原文见 [附录](Appendix/vulg.md)。本附录不代表完整收录其他正典体系。
+
+## 校验与重建
+
+```sh
+python3 tools/validate.py
+python3 tools/rebuild.py
 ```
 
-To add a language, add a labeled row to each verse's table (e.g. `| Français | Au commencement… |`).
+两项操作只需 Python 3 标准库，无须联网。`data/` 保存固定的文本快照、分节对应和专名资料；`Audit/` 保存校勘决策、底本空缺及改动记录。校验涵盖全部章、节、六语行、内部链接及来源片段保全。通过自动检查不等于完成每一处语言和文本史问题的学术审定。
 
-> 每一节是一个标题加一个两列表格：第一列为语言，第二列为内容。新增语言时，只需在每一节的表格中加入对应的一行。
+## 使用与授权
 
-## Versification marker `*` / 分节标记 `*`
-
-The English (KJV) and Chinese (和合本) traditions do not always split verses at the same place. Where they diverge, the Chinese cell is prefixed with an asterisk `*`:
-
-- A cell containing **only** `*` means this KJV verse has no separate Chinese text — 和合本 merged it into an adjacent verse, so the text appears there instead (the cell is intentionally blank, not a missing translation).
-- A cell with `*` **before text** means the Chinese sentence continues across a KJV verse boundary that does not align with the 和合本 numbering.
-
-> 詹姆士王译本（KJV）与和合本的分节位置并不总是一致。凡两者分节不同之处，中文内容前会加一个星号 `*`：单元格中**只有** `*`，表示该 KJV 节在和合本里并入了相邻的一节，正文出现在那一节（此处为有意留空，并非漏译）；`*` 在**文字之前**，表示该中文句子跨越了与和合本编号不对齐的 KJV 节界。
-
-## Contents / 内容规模
-
-- 66 books / 66 卷
-- 1,188 chapters / 1,188 章
-- 31,082 verses / 31,082 节
-
-## Sources & license / 来源与授权
-
-Both the King James Version (1769) and the Chinese Union Version (和合本, 1919) are in the **public domain**. The text here is reproduced from a public-domain parallel edition and may be freely used, copied, and redistributed.
-
-> 詹姆士王译本（1769）与和合本（1919）均属**公共领域**，可自由使用、复制与再分发。
+历史译本与数字数据、专名资料的授权须分别理解。STEPBible 派生专名与分节数据按 **CC BY 4.0** 署名；其他具体来源见 [SOURCES.md](SOURCES.md)。KJV 在英国的出版权限另受当地制度约束，不能概括为“全球无条件公共领域”。

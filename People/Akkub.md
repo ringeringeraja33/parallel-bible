@@ -1,0 +1,31 @@
+# Akkub
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Deutsch：Akkub；Italiano：Accub；English：Akkub；中文：阿谷。
+
+## Akkub@1Ch.3.24=H6126G
+
+类别：PERSON(s)。来源描述：Man living at the time of Divided Monarchy
+
+经文索引：[[1-Old Testament/13-1 Chronicles/1 Chronicles 03#24|1 Chronicles 3:24]]。
+
+## Akkub@1Ch.9.17-Neh=H6126H
+
+类别：PERSON(s)。来源描述：Levite living at the time of Exile and Return
+
+经文索引：[[1-Old Testament/13-1 Chronicles/1 Chronicles 09#17|1 Chronicles 9:17]]、[[1-Old Testament/15-Ezra/Ezra 02#42|Ezra 2:42]]、[[1-Old Testament/16-Nehemiah/Nehemiah 07#45|Nehemiah 7:45]]、[[1-Old Testament/16-Nehemiah/Nehemiah 11#19|Nehemiah 11:19]]、[[1-Old Testament/16-Nehemiah/Nehemiah 12#25|Nehemiah 12:25]]。
+
+## Akkub@Ezr.2.45=H6126I
+
+类别：PERSON(s)。来源描述：Man living at the time of Exile and Return
+
+经文索引：[[1-Old Testament/15-Ezra/Ezra 02#45|Ezra 2:45]]。
+
+## Akkub@Neh.8.7=H6126J
+
+类别：PERSON(s)。来源描述：Man living at the time of Exile and Return
+
+经文索引：[[1-Old Testament/16-Nehemiah/Nehemiah 08#7|Nehemiah 8:7]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

@@ -1,0 +1,11 @@
+{
+  "data/headings.json": "3245398ced4aefbf100d3999c26084cd00e198a38b092739c9aaaaa09b68bbd2",
+  "data/bilingual-base.json.gz": "0d1d0c45c241b9509c06b1963d0e0d57fda4f0703756735e48fa17c74ce54bf2",
+  "data/books.json": "39b8f035c31e0720379b55b732d4387d3827dccf8175a6bffdd0e5210c5ac580",
+  "data/chinese-merge-refs.json": "583fdfb13e5f73721cd8f8b55dbf343bec5a12a526c646f304ea0c4c448280d0",
+  "data/bilingual-reference.json.gz": "f1da113079668d582005aed804ee44cc5166b78009689abf4919da8b81046632",
+  "data/alignment.json.gz": "bdc7cbedf7e325bcd7db42980cc5228650ef6605cbd1b3c17f1cbbbf5d81652f",
+  "data/chinese-joins.json": "f9c8ad4675a351c74039e20e8645385f0972106afa09a8a82616e0158c701b28",
+  "data/source-texts.json.gz": "57696e84fe1b4ddaf4c4ca5d71cafa701dc00eac263635e24d3da04bcd256b42",
+  "data/name-index.json.gz": "24f5befbe1361d002841bb8bd68b62a77af261cd143b2ed5db3ed8c1f569e838"
+}

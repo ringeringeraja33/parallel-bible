@@ -1,0 +1,13 @@
+# Jehoiakim
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Deutsch：Eljakim, Jojakim；Italiano：Eliachim；English：Eliakim, Jehoiakim；中文：以利亚敬, 约雅敬。
+
+## Jehoiakim@2Ki.23.34-Dan=H3079G
+
+类别：PERSON(s)。来源描述：King living at the time of Divided Monarchy
+
+经文索引：[[1-Old Testament/12-2 Kings/2 Kings 23#34|2 Kings 23:34]]、[[1-Old Testament/12-2 Kings/2 Kings 23#35|2 Kings 23:35]]、[[1-Old Testament/12-2 Kings/2 Kings 23#36|2 Kings 23:36]]、[[1-Old Testament/12-2 Kings/2 Kings 24#1|2 Kings 24:1]]、[[1-Old Testament/12-2 Kings/2 Kings 24#5|2 Kings 24:5]]、[[1-Old Testament/12-2 Kings/2 Kings 24#6|2 Kings 24:6]]、[[1-Old Testament/12-2 Kings/2 Kings 24#19|2 Kings 24:19]]、[[1-Old Testament/13-1 Chronicles/1 Chronicles 03#15|1 Chronicles 3:15]]、[[1-Old Testament/13-1 Chronicles/1 Chronicles 03#16|1 Chronicles 3:16]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 36#4|2 Chronicles 36:4]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 36#5|2 Chronicles 36:5]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 36#8|2 Chronicles 36:8]]、[[1-Old Testament/24-Jeremiah/Jeremiah 01#3|Jeremiah 1:3]]、[[1-Old Testament/24-Jeremiah/Jeremiah 22#18|Jeremiah 22:18]]、[[1-Old Testament/24-Jeremiah/Jeremiah 22#24|Jeremiah 22:24]]、[[1-Old Testament/24-Jeremiah/Jeremiah 24#1|Jeremiah 24:1]]、[[1-Old Testament/24-Jeremiah/Jeremiah 25#1|Jeremiah 25:1]]、[[1-Old Testament/24-Jeremiah/Jeremiah 26#1|Jeremiah 26:1]]、[[1-Old Testament/24-Jeremiah/Jeremiah 26#21|Jeremiah 26:21]]、[[1-Old Testament/24-Jeremiah/Jeremiah 26#22|Jeremiah 26:22]]、[[1-Old Testament/24-Jeremiah/Jeremiah 26#23|Jeremiah 26:23]]、[[1-Old Testament/24-Jeremiah/Jeremiah 27#20|Jeremiah 27:20]]、[[1-Old Testament/24-Jeremiah/Jeremiah 28#4|Jeremiah 28:4]]、[[1-Old Testament/24-Jeremiah/Jeremiah 35#1|Jeremiah 35:1]]、[[1-Old Testament/24-Jeremiah/Jeremiah 36#1|Jeremiah 36:1]]、[[1-Old Testament/24-Jeremiah/Jeremiah 36#9|Jeremiah 36:9]]、[[1-Old Testament/24-Jeremiah/Jeremiah 36#28|Jeremiah 36:28]]、[[1-Old Testament/24-Jeremiah/Jeremiah 36#29|Jeremiah 36:29]]、[[1-Old Testament/24-Jeremiah/Jeremiah 36#30|Jeremiah 36:30]]、[[1-Old Testament/24-Jeremiah/Jeremiah 36#32|Jeremiah 36:32]]、[[1-Old Testament/24-Jeremiah/Jeremiah 37#1|Jeremiah 37:1]]、[[1-Old Testament/24-Jeremiah/Jeremiah 45#1|Jeremiah 45:1]]、[[1-Old Testament/24-Jeremiah/Jeremiah 46#2|Jeremiah 46:2]]、[[1-Old Testament/24-Jeremiah/Jeremiah 52#2|Jeremiah 52:2]]、[[1-Old Testament/27-Daniel/Daniel 01#1|Daniel 1:1]]、[[1-Old Testament/27-Daniel/Daniel 01#2|Daniel 1:2]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

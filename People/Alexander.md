@@ -1,0 +1,31 @@
+# Alexander
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Français：Alexandre；Deutsch：Alexander；Italiano：Alessandro；English：Alexander；中文：亚历山大。
+
+## Alexander@1Ti.1.20-2Ti=G0223J
+
+类别：PERSON(s)。来源描述：Man living at the time of the New Testament
+
+经文索引：[[2-New Testament/54-1 Timothy/1 Timothy 1#20|1 Timothy 1:20]]、[[2-New Testament/55-2 Timothy/2 Timothy 4#14|2 Timothy 4:14]]。
+
+## Alexander@Act.19.33=G0223I
+
+类别：PERSON(s)。来源描述：Man living at the time of the New Testament
+
+经文索引：[[2-New Testament/44-Acts/Acts 19#33|Acts 19:33]]。
+
+## Alexander@Act.4.6=G0223H
+
+类别：PERSON(s)。来源描述：Priest living at the time of the New Testament
+
+经文索引：[[2-New Testament/44-Acts/Acts 04#6|Acts 4:6]]。
+
+## Alexander@Mrk.15.21=G0223G
+
+类别：PERSON(s)。来源描述：Man living at the time of the New Testament
+
+经文索引：[[2-New Testament/41-Mark/Mark 15#21|Mark 15:21]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

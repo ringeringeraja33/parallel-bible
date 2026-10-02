@@ -1,0 +1,19 @@
+# Abimelech
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Deutsch：Abimelech；Italiano：Abimelec；English：Abimelech；中文：亚比米勒。
+
+## Abimelech@Gen.20.2-=H0040G
+
+类别：PERSON(s)。来源描述：King living at the time of the Patriarchs
+
+经文索引：[[1-Old Testament/01-Genesis/Genesis 20#2|Genesis 20:2]]、[[1-Old Testament/01-Genesis/Genesis 20#3|Genesis 20:3]]、[[1-Old Testament/01-Genesis/Genesis 20#4|Genesis 20:4]]、[[1-Old Testament/01-Genesis/Genesis 20#8|Genesis 20:8]]、[[1-Old Testament/01-Genesis/Genesis 20#9|Genesis 20:9]]、[[1-Old Testament/01-Genesis/Genesis 20#10|Genesis 20:10]]、[[1-Old Testament/01-Genesis/Genesis 20#14|Genesis 20:14]]、[[1-Old Testament/01-Genesis/Genesis 20#15|Genesis 20:15]]、[[1-Old Testament/01-Genesis/Genesis 20#17|Genesis 20:17]]、[[1-Old Testament/01-Genesis/Genesis 20#18|Genesis 20:18]]、[[1-Old Testament/01-Genesis/Genesis 21#22|Genesis 21:22]]、[[1-Old Testament/01-Genesis/Genesis 21#25|Genesis 21:25]]、[[1-Old Testament/01-Genesis/Genesis 21#26|Genesis 21:26]]、[[1-Old Testament/01-Genesis/Genesis 21#27|Genesis 21:27]]、[[1-Old Testament/01-Genesis/Genesis 21#29|Genesis 21:29]]、[[1-Old Testament/01-Genesis/Genesis 21#32|Genesis 21:32]]、[[1-Old Testament/01-Genesis/Genesis 26#1|Genesis 26:1]]、[[1-Old Testament/01-Genesis/Genesis 26#8|Genesis 26:8]]、[[1-Old Testament/01-Genesis/Genesis 26#9|Genesis 26:9]]、[[1-Old Testament/01-Genesis/Genesis 26#10|Genesis 26:10]]、[[1-Old Testament/01-Genesis/Genesis 26#11|Genesis 26:11]]、[[1-Old Testament/01-Genesis/Genesis 26#16|Genesis 26:16]]、[[1-Old Testament/01-Genesis/Genesis 26#26|Genesis 26:26]]。
+
+## Abimelech@Jdg.8.31-2Sa=H0040H
+
+类别：PERSON(s)。来源描述：Judge living before Israel's Monarchy
+
+经文索引：[[1-Old Testament/07-Judges/Judges 08#31|Judges 8:31]]、[[1-Old Testament/07-Judges/Judges 09#1|Judges 9:1]]、[[1-Old Testament/07-Judges/Judges 09#3|Judges 9:3]]、[[1-Old Testament/07-Judges/Judges 09#4|Judges 9:4]]、[[1-Old Testament/07-Judges/Judges 09#6|Judges 9:6]]、[[1-Old Testament/07-Judges/Judges 09#16|Judges 9:16]]、[[1-Old Testament/07-Judges/Judges 09#18|Judges 9:18]]、[[1-Old Testament/07-Judges/Judges 09#19|Judges 9:19]]、[[1-Old Testament/07-Judges/Judges 09#20|Judges 9:20]]、[[1-Old Testament/07-Judges/Judges 09#21|Judges 9:21]]、[[1-Old Testament/07-Judges/Judges 09#22|Judges 9:22]]、[[1-Old Testament/07-Judges/Judges 09#23|Judges 9:23]]、[[1-Old Testament/07-Judges/Judges 09#24|Judges 9:24]]、[[1-Old Testament/07-Judges/Judges 09#25|Judges 9:25]]、[[1-Old Testament/07-Judges/Judges 09#27|Judges 9:27]]、[[1-Old Testament/07-Judges/Judges 09#28|Judges 9:28]]、[[1-Old Testament/07-Judges/Judges 09#29|Judges 9:29]]、[[1-Old Testament/07-Judges/Judges 09#31|Judges 9:31]]、[[1-Old Testament/07-Judges/Judges 09#34|Judges 9:34]]、[[1-Old Testament/07-Judges/Judges 09#35|Judges 9:35]]、[[1-Old Testament/07-Judges/Judges 09#38|Judges 9:38]]、[[1-Old Testament/07-Judges/Judges 09#39|Judges 9:39]]、[[1-Old Testament/07-Judges/Judges 09#40|Judges 9:40]]、[[1-Old Testament/07-Judges/Judges 09#41|Judges 9:41]]、[[1-Old Testament/07-Judges/Judges 09#42|Judges 9:42]]、[[1-Old Testament/07-Judges/Judges 09#44|Judges 9:44]]、[[1-Old Testament/07-Judges/Judges 09#45|Judges 9:45]]、[[1-Old Testament/07-Judges/Judges 09#47|Judges 9:47]]、[[1-Old Testament/07-Judges/Judges 09#48|Judges 9:48]]、[[1-Old Testament/07-Judges/Judges 09#49|Judges 9:49]]、[[1-Old Testament/07-Judges/Judges 09#50|Judges 9:50]]、[[1-Old Testament/07-Judges/Judges 09#52|Judges 9:52]]、[[1-Old Testament/07-Judges/Judges 09#53|Judges 9:53]]、[[1-Old Testament/07-Judges/Judges 09#55|Judges 9:55]]、[[1-Old Testament/07-Judges/Judges 09#56|Judges 9:56]]、[[1-Old Testament/07-Judges/Judges 10#1|Judges 10:1]]、[[1-Old Testament/10-2 Samuel/2 Samuel 11#21|2 Samuel 11:21]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

@@ -1,0 +1,101 @@
+[
+  {
+    "ref": [
+      "Gen",
+      49,
+      32
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Neh",
+      7,
+      68
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Song",
+      1,
+      1
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Matt",
+      23,
+      14
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "John",
+      5,
+      4
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Acts",
+      8,
+      37
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Acts",
+      15,
+      34
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Acts",
+      18,
+      4
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Acts",
+      24,
+      7
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Acts",
+      28,
+      29
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  },
+  {
+    "ref": [
+      "Rom",
+      16,
+      24
+    ],
+    "language": "Latina",
+    "reason": "source-absence"
+  }
+]

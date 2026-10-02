@@ -1,0 +1,3249 @@
+[
+  {
+    "version": "lsg",
+    "source": [
+      "Esth",
+      1,
+      1
+    ],
+    "targets": [
+      [
+        "Esth",
+        1,
+        1
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "lsg",
+    "source": [
+      "Esth",
+      3,
+      13
+    ],
+    "targets": [
+      [
+        "Esth",
+        3,
+        13
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "lsg",
+    "source": [
+      "Esth",
+      4,
+      17
+    ],
+    "targets": [
+      [
+        "Esth",
+        4,
+        17
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "lsg",
+    "source": [
+      "Esth",
+      8,
+      12
+    ],
+    "targets": [
+      [
+        "Esth",
+        8,
+        12
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "lsg",
+    "source": [
+      "Esth",
+      10,
+      3
+    ],
+    "targets": [
+      [
+        "Esth",
+        10,
+        3
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "luth1912",
+    "source": [
+      "Esth",
+      1,
+      1
+    ],
+    "targets": [
+      [
+        "Esth",
+        1,
+        1
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "luth1912",
+    "source": [
+      "Esth",
+      3,
+      13
+    ],
+    "targets": [
+      [
+        "Esth",
+        3,
+        13
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "luth1912",
+    "source": [
+      "Esth",
+      4,
+      17
+    ],
+    "targets": [
+      [
+        "Esth",
+        4,
+        17
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "luth1912",
+    "source": [
+      "Esth",
+      8,
+      12
+    ],
+    "targets": [
+      [
+        "Esth",
+        8,
+        12
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "luth1912",
+    "source": [
+      "Esth",
+      10,
+      3
+    ],
+    "targets": [
+      [
+        "Esth",
+        10,
+        3
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Esth",
+      1,
+      1
+    ],
+    "targets": [
+      [
+        "Esth",
+        1,
+        1
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Esth",
+      3,
+      13
+    ],
+    "targets": [
+      [
+        "Esth",
+        3,
+        13
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Esth",
+      4,
+      17
+    ],
+    "targets": [
+      [
+        "Esth",
+        4,
+        17
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Esth",
+      8,
+      12
+    ],
+    "targets": [
+      [
+        "Esth",
+        8,
+        12
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Esth",
+      10,
+      3
+    ],
+    "targets": [
+      [
+        "Esth",
+        10,
+        3
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Esth",
+      1,
+      1
+    ],
+    "targets": [
+      [
+        "Esth",
+        1,
+        1
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Esth",
+      3,
+      13
+    ],
+    "targets": [
+      [
+        "Esth",
+        3,
+        13
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Esth",
+      4,
+      17
+    ],
+    "targets": [
+      [
+        "Esth",
+        4,
+        17
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Esth",
+      8,
+      12
+    ],
+    "targets": [
+      [
+        "Esth",
+        8,
+        12
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Esth",
+      10,
+      3
+    ],
+    "targets": [
+      [
+        "Esth",
+        10,
+        3
+      ]
+    ],
+    "reason": "底本以斯帖记 1—10 章；未包含希腊增补，不套用增补章节缺省规则。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "1Sam",
+      30,
+      30
+    ],
+    "targets": [
+      [
+        "1Sam",
+        30,
+        30
+      ],
+      [
+        "1Sam",
+        30,
+        31
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "2Cor",
+      1,
+      23
+    ],
+    "targets": [
+      [
+        "2Cor",
+        1,
+        23
+      ],
+      [
+        "2Cor",
+        1,
+        24
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "2Sam",
+      20,
+      25
+    ],
+    "targets": [
+      [
+        "2Sam",
+        20,
+        25
+      ],
+      [
+        "2Sam",
+        20,
+        26
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Deut",
+      4,
+      48
+    ],
+    "targets": [
+      [
+        "Deut",
+        4,
+        48
+      ],
+      [
+        "Deut",
+        4,
+        49
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ezek",
+      16,
+      62
+    ],
+    "targets": [
+      [
+        "Ezek",
+        16,
+        62
+      ],
+      [
+        "Ezek",
+        16,
+        63
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Isa",
+      21,
+      16
+    ],
+    "targets": [
+      [
+        "Isa",
+        21,
+        16
+      ],
+      [
+        "Isa",
+        21,
+        17
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Isa",
+      50,
+      10
+    ],
+    "targets": [
+      [
+        "Isa",
+        50,
+        10
+      ],
+      [
+        "Isa",
+        50,
+        11
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Jer",
+      16,
+      20
+    ],
+    "targets": [
+      [
+        "Jer",
+        16,
+        20
+      ],
+      [
+        "Jer",
+        16,
+        21
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Jer",
+      20,
+      17
+    ],
+    "targets": [
+      [
+        "Jer",
+        20,
+        17
+      ],
+      [
+        "Jer",
+        20,
+        18
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Num",
+      8,
+      25
+    ],
+    "targets": [
+      [
+        "Num",
+        8,
+        25
+      ],
+      [
+        "Num",
+        8,
+        26
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Rev",
+      7,
+      16
+    ],
+    "targets": [
+      [
+        "Rev",
+        7,
+        16
+      ],
+      [
+        "Rev",
+        7,
+        17
+      ]
+    ],
+    "reason": "底本文字连续包含 KJV 相邻两节，整段保留，不臆断句内切分。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gen",
+      35,
+      23
+    ],
+    "targets": [
+      [
+        "Gen",
+        35,
+        22
+      ]
+    ],
+    "reason": "意大利语 35:22—23 合读对应 KJV 35:22；其后顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gen",
+      35,
+      24
+    ],
+    "targets": [
+      [
+        "Gen",
+        35,
+        23
+      ]
+    ],
+    "reason": "意大利语 35:22—23 合读对应 KJV 35:22；其后顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gen",
+      35,
+      25
+    ],
+    "targets": [
+      [
+        "Gen",
+        35,
+        24
+      ]
+    ],
+    "reason": "意大利语 35:22—23 合读对应 KJV 35:22；其后顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gen",
+      35,
+      26
+    ],
+    "targets": [
+      [
+        "Gen",
+        35,
+        25
+      ]
+    ],
+    "reason": "意大利语 35:22—23 合读对应 KJV 35:22；其后顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gen",
+      35,
+      27
+    ],
+    "targets": [
+      [
+        "Gen",
+        35,
+        26
+      ]
+    ],
+    "reason": "意大利语 35:22—23 合读对应 KJV 35:22；其后顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gen",
+      35,
+      28
+    ],
+    "targets": [
+      [
+        "Gen",
+        35,
+        27
+      ]
+    ],
+    "reason": "意大利语 35:22—23 合读对应 KJV 35:22；其后顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gen",
+      35,
+      29
+    ],
+    "targets": [
+      [
+        "Gen",
+        35,
+        28
+      ]
+    ],
+    "reason": "意大利语 35:22—23 合读对应 KJV 35:22；其后顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gen",
+      35,
+      30
+    ],
+    "targets": [
+      [
+        "Gen",
+        35,
+        29
+      ]
+    ],
+    "reason": "意大利语 35:22—23 合读对应 KJV 35:22；其后顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      35,
+      36
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        1
+      ]
+    ],
+    "reason": "底本分章差异：Besaleel adunque 对应 KJV 36:1。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      1
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        2
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      2
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        3
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      3
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        4
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      4
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        5
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      5
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        6
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      6
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        7
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      7
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        8
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      8
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        9
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      9
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        10
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      10
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        11
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      11
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        12
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      12
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        13
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      13
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        14
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      14
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        15
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      15
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        16
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      16
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        17
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      17
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        18
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      18
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        19
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      19
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        20
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      20
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        21
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      21
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        22
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      22
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        23
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      23
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        24
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      24
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        25
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      25
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        26
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      26
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        27
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      27
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        28
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      28
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        29
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      29
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        30
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      30
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        31
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      31
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        32
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      32
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        33
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      33
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        34
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      34
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        35
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      35
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        36
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      36
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        37
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      37
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        38
+      ]
+    ],
+    "reason": "底本 36:1—37 对应 KJV 36:2—38；部分句子跨相邻节边界。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      13
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        14
+      ],
+      [
+        "Exod",
+        36,
+        15
+      ]
+    ],
+    "reason": "两底本切句边界不同，36:13—14 连读对应 KJV 36:14—15。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Exod",
+      36,
+      14
+    ],
+    "targets": [
+      [
+        "Exod",
+        36,
+        14
+      ],
+      [
+        "Exod",
+        36,
+        15
+      ]
+    ],
+    "reason": "两底本切句边界不同，36:13—14 连读对应 KJV 36:14—15。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      1
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        1
+      ],
+      [
+        "Ps",
+        18,
+        2
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      2
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        3
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      3
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        4
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      4
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        5
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      5
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        6
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      6
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        7
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      7
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        8
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      8
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        9
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      9
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        10
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      10
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        11
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      11
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        12
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      12
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        13
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      13
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        14
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      14
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        15
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      15
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        16
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      16
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        17
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      17
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        18
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      18
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        19
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      19
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        20
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      20
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        21
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      21
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        22
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      22
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        23
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      23
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        24
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      24
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        25
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      25
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        26
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      26
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        27
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      27
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        28
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      28
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        29
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      29
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        30
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      30
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        31
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      31
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        32
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      32
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        33
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      33
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        34
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      34
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        35
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      35
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        36
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      36
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        37
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      37
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        38
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      38
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        39
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      39
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        40
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      40
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        41
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      41
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        42
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      42
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        43
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      43
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        44
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      44
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        45
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      45
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        46
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      46
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        47
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      47
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        48
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      48
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        49
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Ps",
+      18,
+      49
+    ],
+    "targets": [
+      [
+        "Ps",
+        18,
+        50
+      ]
+    ],
+    "reason": "底本 18:1 合并 KJV 18:1—2，后续节号顺移。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      1
+    ],
+    "targets": [
+      [
+        "Eccl",
+        11,
+        9
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      2
+    ],
+    "targets": [
+      [
+        "Eccl",
+        11,
+        10
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      3
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        1
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      4
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        2
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      5
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        3
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      6
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        4
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      7
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        5
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      8
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        6
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      9
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        7
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      10
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        8
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      11
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        9
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      12
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        10
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      13
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        11
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      14
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        12
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      15
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        13
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Eccl",
+      12,
+      16
+    ],
+    "targets": [
+      [
+        "Eccl",
+        12,
+        14
+      ]
+    ],
+    "reason": "底本第 12 章从 KJV 11:9 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Mark",
+      9,
+      51
+    ],
+    "targets": [
+      [
+        "Mark",
+        9,
+        50
+      ]
+    ],
+    "reason": "底本 9:50—51 合读对应 KJV 9:50。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gal",
+      3,
+      29
+    ],
+    "targets": [
+      [
+        "Gal",
+        3,
+        28
+      ]
+    ],
+    "reason": "底本 3:28—29 合读对应 KJV 3:28。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Gal",
+      3,
+      30
+    ],
+    "targets": [
+      [
+        "Gal",
+        3,
+        29
+      ]
+    ],
+    "reason": "底本 3:28—29 合读对应 KJV 3:28。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      3,
+      26
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        1
+      ]
+    ],
+    "reason": "底本将 KJV 4:1 放在 3:26。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      1
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        2
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      2
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        3
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      3
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        4
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      4
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        5
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      5
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        6
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      6
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        7
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      7
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        8
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      8
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        9
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      9
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        10
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      10
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        11
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      11
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        12
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      12
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        13
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      13
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        14
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      14
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        15
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      15
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        16
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      16
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        17
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "diodati",
+    "source": [
+      "Col",
+      4,
+      17
+    ],
+    "targets": [
+      [
+        "Col",
+        4,
+        18
+      ]
+    ],
+    "reason": "底本第 4 章从 KJV 4:2 起。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      1
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        1
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      2
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        2
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      3
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        3
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      4
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        4
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      5
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        5
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      6
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        6
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      7
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        7
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      8
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        8
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      9
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        9
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      15,
+      10
+    ],
+    "targets": [
+      [
+        "Ps",
+        16,
+        10
+      ],
+      [
+        "Ps",
+        16,
+        11
+      ]
+    ],
+    "reason": "底本诗篇 15:10 合并 KJV 16:10—11；本篇按原文校对。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      1
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        0
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      2
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        1
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      3
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        2
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      4
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        3
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      5
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        4
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      6
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        5
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      7
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        6
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      8
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        7
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      9
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        8
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      10
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        9
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      11
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        10
+      ],
+      [
+        "Ps",
+        56,
+        11
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      12
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        12
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Ps",
+      55,
+      13
+    ],
+    "targets": [
+      [
+        "Ps",
+        56,
+        13
+      ]
+    ],
+    "reason": "底本诗篇 55:1 为篇题，55:11 合并 KJV 56:10—11。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Neh",
+      3,
+      30
+    ],
+    "targets": [
+      [
+        "Neh",
+        3,
+        30
+      ],
+      [
+        "Neh",
+        3,
+        31
+      ]
+    ],
+    "reason": "底本 3:30 包含 KJV 3:30—31。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Neh",
+      3,
+      31
+    ],
+    "targets": [
+      [
+        "Neh",
+        3,
+        32
+      ]
+    ],
+    "reason": "底本 3:31 对应 KJV 3:32。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Acts",
+      9,
+      7
+    ],
+    "targets": [
+      [
+        "Acts",
+        9,
+        6
+      ],
+      [
+        "Acts",
+        9,
+        7
+      ]
+    ],
+    "reason": "底本 9:7 包含 KJV 9:6 后半及 9:7；不补入底本没有的前半句。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Acts",
+      23,
+      26
+    ],
+    "targets": [
+      [
+        "Acts",
+        23,
+        25
+      ],
+      [
+        "Acts",
+        23,
+        26
+      ]
+    ],
+    "reason": "底本 23:26 包含写信引语和称呼，合读对应 KJV 23:25—26。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Josh",
+      10,
+      40
+    ],
+    "targets": [
+      [
+        "Josh",
+        10,
+        39
+      ]
+    ],
+    "reason": "底本 10:39—40 合读对应 KJV 10:39，随后顺移。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Josh",
+      10,
+      41
+    ],
+    "targets": [
+      [
+        "Josh",
+        10,
+        40
+      ]
+    ],
+    "reason": "底本 10:39—40 合读对应 KJV 10:39，随后顺移。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Josh",
+      10,
+      42
+    ],
+    "targets": [
+      [
+        "Josh",
+        10,
+        41
+      ]
+    ],
+    "reason": "底本 10:39—40 合读对应 KJV 10:39，随后顺移。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Josh",
+      10,
+      43
+    ],
+    "targets": [
+      [
+        "Josh",
+        10,
+        42
+      ]
+    ],
+    "reason": "底本 10:39—40 合读对应 KJV 10:39，随后顺移。"
+  },
+  {
+    "version": "vulg",
+    "source": [
+      "Josh",
+      10,
+      44
+    ],
+    "targets": [
+      [
+        "Josh",
+        10,
+        43
+      ]
+    ],
+    "reason": "底本 10:39—40 合读对应 KJV 10:39，随后顺移。"
+  }
+]

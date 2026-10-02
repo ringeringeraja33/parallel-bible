@@ -1,0 +1,27 @@
+{
+  "chapters": 1189,
+  "verses": 31102,
+  "source_segments": {
+    "lsg": 31102,
+    "luth1912": 31102,
+    "diodati": 31095,
+    "vulg": 31213
+  },
+  "links": {
+    "Français": 18096,
+    "Deutsch": 18899,
+    "Italiano": 22061,
+    "Latina": 11720,
+    "English": 28643,
+    "中文": 27587
+  },
+  "indexes": {
+    "Names": 82,
+    "People": 1724,
+    "Places": 758
+  },
+  "source_absences": 11,
+  "appendix_segments": {
+    "vulg": 67
+  }
+}

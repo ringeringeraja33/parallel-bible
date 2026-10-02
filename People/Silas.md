@@ -1,0 +1,13 @@
+# Silas
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Deutsch：Silas；English：Silas；中文：西拉。
+
+## Silas@Act.15.22-1Pe=G4609
+
+类别：PERSON(s)。来源描述：Man living at the time of the New Testament
+
+经文索引：[[2-New Testament/44-Acts/Acts 15#22|Acts 15:22]]、[[2-New Testament/44-Acts/Acts 15#27|Acts 15:27]]、[[2-New Testament/44-Acts/Acts 15#32|Acts 15:32]]、[[2-New Testament/44-Acts/Acts 15#40|Acts 15:40]]、[[2-New Testament/44-Acts/Acts 16#19|Acts 16:19]]、[[2-New Testament/44-Acts/Acts 16#25|Acts 16:25]]、[[2-New Testament/44-Acts/Acts 16#29|Acts 16:29]]、[[2-New Testament/44-Acts/Acts 17#4|Acts 17:4]]、[[2-New Testament/44-Acts/Acts 17#10|Acts 17:10]]、[[2-New Testament/44-Acts/Acts 17#14|Acts 17:14]]、[[2-New Testament/44-Acts/Acts 17#15|Acts 17:15]]、[[2-New Testament/44-Acts/Acts 18#5|Acts 18:5]]、[[2-New Testament/47-2 Corinthians/2 Corinthians 01#19|2 Corinthians 1:19]]、[[2-New Testament/52-1 Thessalonians/1 Thessalonians 1#1|1 Thessalonians 1:1]]、[[2-New Testament/53-2 Thessalonians/2 Thessalonians 1#1|2 Thessalonians 1:1]]、[[2-New Testament/60-1 Peter/1 Peter 5#12|1 Peter 5:12]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

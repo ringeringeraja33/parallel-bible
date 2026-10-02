@@ -1,0 +1,13 @@
+# Passover
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Français：Pâque；Deutsch：Passah；Italiano：Pasqua；中文：逾越节。
+
+## Passover@Exo.12.11-Heb=H6453
+
+类别：OTHER。来源描述：Name of a feastival
+
+经文索引：[[1-Old Testament/02-Exodus/Exodus 12#11|Exodus 12:11]]、[[1-Old Testament/02-Exodus/Exodus 12#27|Exodus 12:27]]、[[1-Old Testament/02-Exodus/Exodus 12#43|Exodus 12:43]]、[[1-Old Testament/02-Exodus/Exodus 12#48|Exodus 12:48]]、[[1-Old Testament/02-Exodus/Exodus 34#25|Exodus 34:25]]、[[1-Old Testament/03-Leviticus/Leviticus 23#5|Leviticus 23:5]]、[[1-Old Testament/04-Numbers/Numbers 09#2|Numbers 9:2]]、[[1-Old Testament/04-Numbers/Numbers 09#4|Numbers 9:4]]、[[1-Old Testament/04-Numbers/Numbers 09#5|Numbers 9:5]]、[[1-Old Testament/04-Numbers/Numbers 09#6|Numbers 9:6]]、[[1-Old Testament/04-Numbers/Numbers 09#10|Numbers 9:10]]、[[1-Old Testament/04-Numbers/Numbers 09#12|Numbers 9:12]]、[[1-Old Testament/04-Numbers/Numbers 09#13|Numbers 9:13]]、[[1-Old Testament/04-Numbers/Numbers 09#14|Numbers 9:14]]、[[1-Old Testament/04-Numbers/Numbers 28#16|Numbers 28:16]]、[[1-Old Testament/04-Numbers/Numbers 33#3|Numbers 33:3]]、[[1-Old Testament/05-Deuteronomy/Deuteronomy 16#1|Deuteronomy 16:1]]、[[1-Old Testament/05-Deuteronomy/Deuteronomy 16#2|Deuteronomy 16:2]]、[[1-Old Testament/05-Deuteronomy/Deuteronomy 16#5|Deuteronomy 16:5]]、[[1-Old Testament/05-Deuteronomy/Deuteronomy 16#6|Deuteronomy 16:6]]、[[1-Old Testament/06-Joshua/Joshua 05#10|Joshua 5:10]]、[[1-Old Testament/06-Joshua/Joshua 05#11|Joshua 5:11]]、[[1-Old Testament/12-2 Kings/2 Kings 23#21|2 Kings 23:21]]、[[1-Old Testament/12-2 Kings/2 Kings 23#22|2 Kings 23:22]]、[[1-Old Testament/12-2 Kings/2 Kings 23#23|2 Kings 23:23]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 30#1|2 Chronicles 30:1]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 30#2|2 Chronicles 30:2]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 30#5|2 Chronicles 30:5]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 30#18|2 Chronicles 30:18]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 35#1|2 Chronicles 35:1]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 35#16|2 Chronicles 35:16]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 35#17|2 Chronicles 35:17]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 35#18|2 Chronicles 35:18]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 35#19|2 Chronicles 35:19]]、[[1-Old Testament/15-Ezra/Ezra 06#19|Ezra 6:19]]、[[1-Old Testament/26-Ezekiel/Ezekiel 45#21|Ezekiel 45:21]]、[[2-New Testament/41-Mark/Mark 14#12|Mark 14:12]]、[[2-New Testament/42-Luke/Luke 22#7|Luke 22:7]]、[[2-New Testament/46-1 Corinthians/1 Corinthians 05#7|1 Corinthians 5:7]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

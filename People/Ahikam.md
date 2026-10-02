@@ -1,0 +1,13 @@
+# Ahikam
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Deutsch：Ahikam；English：Ahikam；中文：亚希甘。
+
+## Ahikam@2Ki.22.12-Jer=H0296
+
+类别：PERSON(s)。来源描述：Man living at the time of Divided Monarchy
+
+经文索引：[[1-Old Testament/12-2 Kings/2 Kings 22#12|2 Kings 22:12]]、[[1-Old Testament/12-2 Kings/2 Kings 22#14|2 Kings 22:14]]、[[1-Old Testament/12-2 Kings/2 Kings 25#22|2 Kings 25:22]]、[[1-Old Testament/14-2 Chronicles/2 Chronicles 34#20|2 Chronicles 34:20]]、[[1-Old Testament/24-Jeremiah/Jeremiah 26#24|Jeremiah 26:24]]、[[1-Old Testament/24-Jeremiah/Jeremiah 39#14|Jeremiah 39:14]]、[[1-Old Testament/24-Jeremiah/Jeremiah 40#5|Jeremiah 40:5]]、[[1-Old Testament/24-Jeremiah/Jeremiah 40#6|Jeremiah 40:6]]、[[1-Old Testament/24-Jeremiah/Jeremiah 40#7|Jeremiah 40:7]]、[[1-Old Testament/24-Jeremiah/Jeremiah 40#9|Jeremiah 40:9]]、[[1-Old Testament/24-Jeremiah/Jeremiah 40#11|Jeremiah 40:11]]、[[1-Old Testament/24-Jeremiah/Jeremiah 40#14|Jeremiah 40:14]]、[[1-Old Testament/24-Jeremiah/Jeremiah 40#16|Jeremiah 40:16]]、[[1-Old Testament/24-Jeremiah/Jeremiah 41#1|Jeremiah 41:1]]、[[1-Old Testament/24-Jeremiah/Jeremiah 41#2|Jeremiah 41:2]]、[[1-Old Testament/24-Jeremiah/Jeremiah 41#6|Jeremiah 41:6]]、[[1-Old Testament/24-Jeremiah/Jeremiah 41#10|Jeremiah 41:10]]、[[1-Old Testament/24-Jeremiah/Jeremiah 41#16|Jeremiah 41:16]]、[[1-Old Testament/24-Jeremiah/Jeremiah 41#18|Jeremiah 41:18]]、[[1-Old Testament/24-Jeremiah/Jeremiah 43#6|Jeremiah 43:6]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

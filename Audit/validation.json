@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "books": 66,
+  "chapters": 1189,
+  "verses": 31102,
+  "language_rows": 186612,
+  "source_segments_verified": 124512,
+  "chinese_source_records": 31104,
+  "wiki_links_verified": 159643,
+  "known_latin_source_absences": 11,
+  "errors": []
+}

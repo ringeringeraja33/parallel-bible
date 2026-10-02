@@ -1,0 +1,20 @@
+[
+  {
+    "source": [
+      "Ruth",
+      4,
+      22
+    ],
+    "text": "Obed genuit Isai Isai genuit David",
+    "witness": "scrollmapper/CrossWire Vulgate"
+  },
+  {
+    "source": [
+      "Amos",
+      9,
+      15
+    ],
+    "text": "et plantabo eos super humum suam et non evellam eos ultra de terra sua quam dedi eis dicit Dominus Deus tuus",
+    "witness": "scrollmapper/CrossWire Vulgate"
+  }
+]

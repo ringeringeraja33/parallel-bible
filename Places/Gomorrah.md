@@ -1,0 +1,13 @@
+# Gomorrah
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Français：Gomorrhe；Deutsch：Gomorra；Italiano：Gomorra；English：Gomorrah；中文：蛾摩拉。
+
+## Gomorrah@Gen.10.19-Jud=H6017
+
+类别：PLACE。来源描述：Gomorrah
+
+经文索引：[[1-Old Testament/01-Genesis/Genesis 10#19|Genesis 10:19]]、[[1-Old Testament/01-Genesis/Genesis 13#10|Genesis 13:10]]、[[1-Old Testament/01-Genesis/Genesis 14#2|Genesis 14:2]]、[[1-Old Testament/01-Genesis/Genesis 14#8|Genesis 14:8]]、[[1-Old Testament/01-Genesis/Genesis 14#10|Genesis 14:10]]、[[1-Old Testament/01-Genesis/Genesis 14#11|Genesis 14:11]]、[[1-Old Testament/01-Genesis/Genesis 18#20|Genesis 18:20]]、[[1-Old Testament/01-Genesis/Genesis 19#24|Genesis 19:24]]、[[1-Old Testament/01-Genesis/Genesis 19#28|Genesis 19:28]]、[[1-Old Testament/05-Deuteronomy/Deuteronomy 29#23|Deuteronomy 29:23]]、[[1-Old Testament/05-Deuteronomy/Deuteronomy 32#32|Deuteronomy 32:32]]、[[1-Old Testament/23-Isaiah/Isaiah 01#9|Isaiah 1:9]]、[[1-Old Testament/23-Isaiah/Isaiah 01#10|Isaiah 1:10]]、[[1-Old Testament/23-Isaiah/Isaiah 13#19|Isaiah 13:19]]、[[1-Old Testament/24-Jeremiah/Jeremiah 23#14|Jeremiah 23:14]]、[[1-Old Testament/24-Jeremiah/Jeremiah 49#18|Jeremiah 49:18]]、[[1-Old Testament/24-Jeremiah/Jeremiah 50#40|Jeremiah 50:40]]、[[1-Old Testament/30-Amos/Amos 4#11|Amos 4:11]]、[[1-Old Testament/36-Zephaniah/Zephaniah 2#9|Zephaniah 2:9]]、[[2-New Testament/40-Matthew/Matthew 10#15|Matthew 10:15]]、[[2-New Testament/45-Romans/Romans 09#29|Romans 9:29]]、[[2-New Testament/61-2 Peter/2 Peter 2#6|2 Peter 2:6]]、[[2-New Testament/65-Jude/Jude 1#7|Jude 1:7]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。

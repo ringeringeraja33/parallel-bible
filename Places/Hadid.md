@@ -1,0 +1,13 @@
+# Hadid
+
+这是按名称检索的索引；同名人物或地点按来源标识分列，不据拼写相同认定为同一对象。
+
+经文中已核定的显示形式：Français：Hadid；Deutsch：Hadid；English：Hadid；中文：哈第。
+
+## Hadid@Ezr.2.33-Neh=H2307
+
+类别：PLACE。来源描述：Hadid
+
+经文索引：[[1-Old Testament/15-Ezra/Ezra 02#33|Ezra 2:33]]、[[1-Old Testament/16-Nehemiah/Nehemiah 07#37|Nehemiah 7:37]]、[[1-Old Testament/16-Nehemiah/Nehemiah 11#34|Nehemiah 11:34]]。
+
+来源：[STEPBible TIPNR](https://github.com/STEPBible/STEPBible-Data/tree/master/Proper%20Nouns)，CC BY 4.0。分类、身份标识和经节取自来源；此页重新编排，中文提示及拼写筛选由本项目添加。
